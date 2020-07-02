@@ -1,14 +1,15 @@
 <!doctype html>
-<html lang="{{ $.Site.Language.Lang }}">
+<html lang="{{ $.Site.Language.Lang }}" class="bg-site">
   {{ partial "head" . }}
-  <body class="sans-serif">
+  <body class="sans-serif bg-site">
+    <div class="ma3">
 
-    {{ block "header" . }}{{ partial "nav" . }}{{end}}
+      {{ block "header" . }}{{ partial "nav" . }}{{end}}
 
-    {{ block "main" . }}{{ end }}
+      {{ block "main" . }}{{ end }}
 
-    {{ block "footer" . }}{{ partial "footer" . }}{{end}}
-
+      {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+    </div>
     {{ $script := .Site.Data.webpack.main }}
     {{ with $script.js }}
       <script src="{{ relURL . }}"></script>
