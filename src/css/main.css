@@ -38,6 +38,7 @@
 @import './imports/_border-style';
 @import './imports/_border-widths';
 @import './imports/_border-colors';
+@import './imports/_box-shadow';
 @import './imports/_code';
 @import './imports/_coordinates';
 @import './imports/_clears';
