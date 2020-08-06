@@ -1,0 +1,16 @@
+.menu {
+    transition: max-height 0.5s; /* show/hide menu transition */
+}
+
+/* when checkbox is checked, display menu (sibling element) */
+#burger:checked ~ .menu {
+    display: block;
+}
+
+#burger ~ label {
+    cursor: pointer;
+}
+
+#burger:hover ~ label {
+    background-color: var(--primary-light);
+}

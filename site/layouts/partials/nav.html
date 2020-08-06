@@ -1,19 +1,24 @@
 <nav class="flex justify-between items-center center bg-white divider-grey relative">
-
 	<!-- Logo -->
 	<a href="/" class="pa3 db mr4 h-100 w8 flex-none">
 		<img src="/img/logo.png" alt="vvSchijf logo" class="br0 db mb0 w4-m w3"/>
 	</a>
 
-	<!-- Primary Nav -->
-	<ul class="flex b primary">
-		<li><a href="/lidmaatschap" class="pa3 no-underline db">Lidmaatschap</a></li>
+	<!-- burger menu controlled by invisible checkbox -->
+	<input type="checkbox" id="burger" class="dn">
+	<label for="burger" class="dn-l bg-primary pa2 mv2 white b">
+		<i class="fa fa-bars"></i> Menu
+	</label>
+	<div class="menu db-l dn">
+		<!-- Primary Nav -->
+		<ul class="flex-l b primary">
+			<li><a href="/lidmaatschap" class="pa3 no-underline db">Lidmaatschap</a></li>
 
-		<li><a href="/afgelastingen" class="pa3 no-underline db">Afgelastingen</a></li>
+			<li><a href="/afgelastingen" class="pa3 no-underline db">Afgelastingen</a></li>
 
-		<li><a href="/oud-papier" class="pa3 no-underline db">Oud papier</a></li>
+			<li><a href="/oud-papier" class="pa3 no-underline db">Oud papier</a></li>
 
-		<li><a href="/contact" class="pa3 no-underline db">Contact</a></li>
-	</ul>
-
+			<li><a href="/contact" class="pa3 no-underline db">Contact</a></li>
+		</ul>
+	</div>
 </nav>
