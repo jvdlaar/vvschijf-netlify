@@ -1,13 +1,16 @@
-.menu {
-    transition: max-height 0.5s; /* show/hide menu transition */
-}
-
 /* when checkbox is checked, display menu (sibling element) */
-#burger:checked ~ .menu {
+#burger:checked ~ .mobile-menu {
     display: block;
+    z-index: 100;
+    background-color: var(--vvschijf-yellow);
+    top: 145px;
 }
 
 #burger ~ label {
+    cursor: pointer;
+}
+
+#burger:checked ~ label {
     cursor: pointer;
 }
 
