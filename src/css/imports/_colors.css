@@ -36,6 +36,10 @@
   color: var(--black);
 }
 
+h1, h2, h3 {
+  color: var(--primary);
+}
+
 .bg-site {
   background-color: var(--vvschijf-yellow);
 }

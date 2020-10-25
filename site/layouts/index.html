@@ -1,13 +1,30 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+<!--{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}-->
 
 {{ partial "short-text" .Params.blurb}}
+
+{{ partial "blog" . }}
 
 {{ partial "2-up" .Params }}
 
 {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
 
-{{ partial "blog" . }}
+<div class="bg-off-white pv4">
+    <div class="ph3 mw7 center">
+        <div class="ph2-ns w-50-ns">
+            <a class="twitter-timeline" data-lang="nl" data-theme="light" data-tweet-limit="5" href="https://twitter.com/vvschijf?ref_src=twsrc%5Etfw">Tweets van @vvschijf</a>
+            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+        <div class="ph2-ns w-50-ns">
+<!--            <script type='text/javascript'-->
+<!--                    src='https://knvbwidget.sportlink.com/widget_js.php?soort=vereniging-staand&clubcode=BBHY62M&breedte=180'>-->
+<!--            </script>-->
+<!--            <script type='text/javascript'>-->
+<!--              showWidget();-->
+<!--            </script>-->
+        </div>
+    </div>
+</div>
 
 {{ end }}

@@ -13,3 +13,7 @@
     box-shadow: inset 0 -4px 0 var(--primary);
   }
 }
+
+.header-img {
+  display: none;
+}
