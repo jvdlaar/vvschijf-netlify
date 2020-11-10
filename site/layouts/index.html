@@ -1,11 +1,13 @@
 {{ define "main" }}
 
-<!--{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}-->
+{{ partial "jumbotron" (dict "imageUrl" "/img/header_dames.jpg" "title" .Params.blurb.heading "subtitle" .Params.blurb.text "class" "header-img") }}
+{{ partial "jumbotron" (dict "imageUrl" "/img/header_heren.jpg" "title" .Params.blurb.heading "subtitle" .Params.blurb.text "class" "header-img") }}
 
-{{ partial "short-text" .Params.blurb}}
+{{ partial "news" . }}
 
-{{ partial "blog" . }}
+SPONSOREN
 
+AVG
 {{ partial "2-up" .Params }}
 
 {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
