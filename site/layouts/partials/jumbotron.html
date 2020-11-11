@@ -2,13 +2,19 @@
   <div class="mw7 right-1 ph3">
     <div class="db mb3">
       <div class="mw7 relative bg-fix-primary mb3">
-        <h1 class="f4-ns f5 b di lh-title mb3 white mw6 bg-primary">
-          {{.title}}
-        </h1>
+        {{ if .title }}
+          <h1 class="f4-ns f5 b di lh-title mb3 white mw6 bg-primary pa1">
+            {{.title}}
+          </h1>
+        {{ else }}
+          <div class="f4-ns f5 b di lh-title mb3 white mw6 pa1">
+            {{.title}}
+          </div>
+        {{ end }}
       </div>
       <div class="mw7 relative bg-fix-primary">
         {{ if .subtitle }}
-        <p class="b f6 di lh-title mb3 white mw6 bg-primary">
+        <p class="b f6 di lh-title mb3 white mw6 bg-primary pa1">
           {{.subtitle}}
         </p>
         {{ end }}

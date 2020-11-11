@@ -13,8 +13,10 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Nieuwsdatum", name: "date", widget: "datetime"}
       - {label: "Introductietekst", name: "description", widget: "text"}
-      - {label: "Afbeelding", name: "image", widget: "image", required: false}
+      - {label: "Hoofdafbeelding", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Afbeeldingen", name: images, widget: list, fields: [
+          { label: "Afbeelding", name: "image", widget: "image" }
   - name: "pages"
     label: "Pages"
     files:

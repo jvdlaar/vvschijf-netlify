@@ -1,14 +1,28 @@
 {{ define "main" }}
 
+  {{ partial "jumbotron" (dict "imageUrl" "/img/header_dames.jpg" "class" "header-img") }}
+  {{ partial "jumbotron" (dict "imageUrl" "/img/header_heren.jpg" "class" "header-img") }}
   <div class="mw6 center ph3 pv4">
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
     <div class="flex justify-between grey-3">
       <p class="mid-gray lh-title mb2">{{ .Date.Format "02-01-2006" }}</p>
     </div>
     <div class="cms mw6">
-      <p>{{ .Description }}</p>
-      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+      <p><em>{{ .Description }}</em></p>
+      {{ if .Params.image }}
+        <img src="{{ .Params.image }}" alt="{{ .Title }}" />
+      {{ end }}
       {{ .Content }}
+
+      {{ if .Params.images }}
+        <div class="flex-ns mhn2-ns mb3">
+          {{ range .Params.images }}
+            <div class="ph2-ns w-50-ns">
+              <img src="{{.image}}" alt="" class="center db mb3" style="width: 240px">
+            </div>
+          {{ end }}
+        </div>
+      {{ end }}
     </div>
   </div>
 {{ end }}
