@@ -1,7 +1,7 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" "/img/header_dames.jpg" "title" "Laatste nieuws" "class" "header-img") }}
-{{ partial "jumbotron" (dict "imageUrl" "/img/header_heren.jpg" "title" "Laatste nieuws" "class" "header-img") }}
+{{ partial "jumbotron" (dict "imageUrl" "/img/header_dames.jpg" "title" .Title "class" "header-img") }}
+{{ partial "jumbotron" (dict "imageUrl" "/img/header_heren.jpg" "title" .Title "class" "header-img") }}
 
 <div class="mw7 center">
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
