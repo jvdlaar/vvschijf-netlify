@@ -1,0 +1,10 @@
+.lightbox:target {
+    display: block;
+}
+
+.lightbox {
+    & a:hover {
+        background: none;
+        color: var(--primary);
+    }
+}

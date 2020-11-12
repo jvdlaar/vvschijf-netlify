@@ -15,10 +15,18 @@
       {{ .Content }}
 
       {{ if .Params.images }}
-        <div class="flex-ns mhn2-ns mb3">
-          {{ range .Params.images }}
+        <div class="flex-ns mhn2-ns mb3" id="lightbox-images">
+          {{ range $elem_key, $elem_val := .Params.images }}
             <div class="ph2-ns w-50-ns">
-              <img src="{{.image}}" alt="" class="center db mb3" style="width: 240px">
+              <a href="#img-{{ $elem_key }}"><img src="{{$elem_val.image}}" alt="" class="center db mb3" style="width: 240px"></a>
+            </div>
+          {{ end }}
+        </div>
+        <div>
+          {{ range $elem_key, $elem_val := .Params.images }}
+            <div class="dn lightbox" id="img-{{ $elem_key }}">
+              <a href="#lightbox-images" class="tr db no-underline underline-hover close">X</a>
+              <img src="{{$elem_val.image}}" alt="" class="center db mb3">
             </div>
           {{ end }}
         </div>
