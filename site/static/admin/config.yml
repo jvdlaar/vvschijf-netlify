@@ -15,8 +15,11 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Introductietekst", name: "description", widget: "text"}
       - {label: "Hoofdafbeelding", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-      - { label: "Afbeeldingen", name: images, widget: list, fields: [
-          { label: "Afbeelding", name: "image", widget: "image" }
+      - label: "Afbeeldingen"
+        name: images
+        widget: list
+        fields:
+          - { label: "Afbeelding", name: "image", widget: "image" }
   - name: "pages"
     label: "Pages"
     files:
@@ -25,9 +28,12 @@ collections: # A list of collections the CMS should be able to edit
         name: "home"
         fields:
           - {label: Titel, name: title, widget: string}
-          - {label: "Notificatie", name: blurb, widget: object, fields: [
-              {label: "Kop", name: "heading", widget: string},
-              {label: "Tekst", name: "text", widget: "text"}]}
+          - label: "Notificatie"
+            name: blurb
+            widget: object
+            fields:
+              - {label: "Kop", name: "heading", widget: string}
+              - {label: "Tekst", name: "text", widget: "text"}
       - file: "site/content/clubinfo/_index.md"
         label: "Clubinfo"
         name: "clubinfo"
