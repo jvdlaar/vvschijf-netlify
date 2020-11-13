@@ -28,6 +28,12 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Notificatie", name: blurb, widget: object, fields: [
               {label: "Kop", name: "heading", widget: string},
               {label: "Tekst", name: "text", widget: "text"}]}
+      - file: "site/content/clubinfo/_index.md"
+        label: "Clubinfo"
+        name: "clubinfo"
+        fields:
+          - {label: Titel, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"

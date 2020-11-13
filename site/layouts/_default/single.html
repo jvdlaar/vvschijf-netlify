@@ -1,6 +1,38 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" "/img/7.jpg" "title" "This is where the heading goes" "subtitle" "This is where the subtitle goes") }}
-{{ .Content }}
+    {{ partial "jumbotron" (dict "imageUrl" "/img/header_dames.jpg" "class" "header-img") }}
+    {{ partial "jumbotron" (dict "imageUrl" "/img/header_heren.jpg" "class" "header-img") }}
+    <div class="mw6 center ph3 pv4">
+        <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+        {{ if .Date }}
+            <div class="flex justify-between grey-3">
+                <p class="mid-gray lh-title mb2">{{ .Date.Format "02-01-2006" }}</p>
+            </div>
+        {{ end }}
+        <div class="cms mw6">
+            <p><em>{{ .Description }}</em></p>
+            {{ if .Params.image }}
+                <img src="{{ .Params.image }}" alt="{{ .Title }}" />
+            {{ end }}
+            {{ .Content }}
 
+            {{ if .Params.images }}
+                <div class="flex-ns mhn2-ns mb3" id="lightbox-images">
+                    {{ range $elem_key, $elem_val := .Params.images }}
+                        <div class="ph2-ns w-50-ns">
+                            <a href="#img-{{ $elem_key }}"><img src="{{$elem_val.image}}" alt="" class="center db mb3" style="width: 240px"></a>
+                        </div>
+                    {{ end }}
+                </div>
+                <div>
+                    {{ range $elem_key, $elem_val := .Params.images }}
+                        <div class="dn lightbox" id="img-{{ $elem_key }}">
+                            <a href="#lightbox-images" class="tr db no-underline underline-hover close">X</a>
+                            <img src="{{$elem_val.image}}" alt="" class="center db mb3">
+                        </div>
+                    {{ end }}
+                </div>
+            {{ end }}
+        </div>
+    </div>
 {{ end }}
