@@ -34,7 +34,7 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: "Kop", name: "heading", widget: string}
               - {label: "Tekst", name: "text", widget: "text"}
-      - file: "site/content/clubinfo/_index.md"
+      - file: "site/content/clubinfo.md"
         label: "Clubinfo"
         name: "clubinfo"
         fields:
