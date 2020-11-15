@@ -4,7 +4,7 @@ title: "Clubinfo"
 
 **_Het correspondentieadres, bezoekadres en de e-mailadressen waarop u ons kunt bereiken._**
 
-###### Algemeen
+### Algemeen
 
 secretaris@vvschijf.nl\
 Voor al je vragen of het laten plaatsen van je bericht op de website.
@@ -13,36 +13,37 @@ Voor al je vragen of het laten plaatsen van je bericht op de website.
 
 **Tenue**: Geel shirt, Rode broek en geel/rode kousen.
 
-###### Correspondentieadres
+### Correspondentieadres
 
 De Nieuwe Zoek 21\
 4721 CA  Schijf
 
-###### Accomodatie Sportpark de Zoek
+### Accomodatie Sportpark de Zoek
 
 Zoeksedijk 6\
 4721 AT  Schijf\
 Tel. 0165 34 31 15
 
-###### Hoofdbestuur
+### Hoofdbestuur
 
 v.l.n.r. Rob Adriaensen, Jan Naalden, Sven Arink, Roy van Zundert, Paul Suijkerbuijk, Erwin Damen, Evelien Hack, Gerard Suijkerbuijk en Mieke Godrie.
 
 **Leden Hoofdbestuur**
 
-| Functie               | Naam                 | E-mailadres                       | Telefoon       |
-| --------------------- | -------------------- | --------------------------------- | -------------- |
-| Voorzitter            | vacant               |                                   |                |
-| Secretaris            | Evelien Hack         | secretaris@vvschijf.nl            | 06 12 01 05 56 |
-| Penningmeester        | Sven Arink           | svenarink@gmail.com               | 06 22 61 56 33 |
-| Wedstrijdsecretariaat | Erwin Damen          | wedstrijdsecretariaat@vvschijf.nl |                |
-| Sponsoring            | Rob Adriaensen       | sponsoring@vvschijf.nl            | 06 83 96 84 15 |
-| Activiteiten          | Fleur Suijkerbuijk   | activiteiten@vvschijf.nl          |                |
-| Jeugdzaken            | Hans van Merrienboer |                                   |                |
-| Accommodatie          | Jan Naalden          |                                   |                |
-| kantine beheer        | Paul Suijkerbuijk    | p.suijkerbuijk14@gmail.com        | 06 55 68 89 31 |
+| Functie               | Naam                 | E-mailadres                       | Telefoon                     |
+| --------------------- | -------------------- | --------------------------------- | ---------------------------- |
+| Voorzitter            | vacant               | -                                 | -                            |
+| Secretaris            | Evelien Hack         | secretaris@vvschijf.nl            | [0612010556](tel:0612010556) |
+| Penningmeester        | Sven Arink           | svenarink@gmail.com               | [0622615633](tel:0622615633) |
+| Wedstrijdsecretariaat | Erwin Damen          | wedstrijdsecretariaat@vvschijf.nl | -                            |
+| Sponsoring            | Rob Adriaensen       | sponsoring@vvschijf.nl            | [0683968415](tel:0683968415) |
+| Activiteiten          | Fleur Suijkerbuijk   | activiteiten@vvschijf.nl          | -                            |
+| Jeugdzaken            | Hans van Merrienboer | -                                 | -                            |
+| Accommodatie          | Jan Naalden          | -                                 | -                            |
+| Kantine beheer        | Paul Suijkerbuijk    | p.suijkerbuijk14@gmail.com        | [0655688931](tel:0655688931) |
 
-###### Jeugdbestuur
+
+### Jeugdbestuur
 
 v.l.n.r. Hans van Merriënboer, Alwin van Aken, Gerard Suijkerbuijk, Rohan Oostvogels en Floris Naalden.
 
@@ -50,18 +51,19 @@ v.l.n.r. Hans van Merriënboer, Alwin van Aken, Gerard Suijkerbuijk, Rohan Oostv
  
  | Functie                   | Naam                 | E-mailadres                       | Telefoon       |
  | ------------------------- | -------------------- | --------------------------------- | -------------- |
- | Voorzitter                | Hans van Merrienboer |                                   |                |
- | Secretaris                | vacant               |                                   |                |
- | Wedstrijdsecretaris Jeugd | José Verhoeven       | jeugd@vvschijf.nl                 |                |
- | Bestuurslid               | Floris Naalden       |                                   |                |
- | Bestuurslid               | Kristel Snepvangers  |                                   |                |
- | Bestuurslid               | vacant               |                                   |                |
+ | Voorzitter                | Hans van Merrienboer | -                                 | -              |
+ | Secretaris                | vacant               | -                                 | -              |
+ | Wedstrijdsecretaris Jeugd | José Verhoeven       | jeugd@vvschijf.nl                 | -              |
+ | Bestuurslid               | Floris Naalden       | -                                 | -              |
+ | Bestuurslid               | Kristel Snepvangers  | -                                 | -              |
+ | Bestuurslid               | vacant               | -                                 | -              |
 
-###### Voetbaltechnische zaken
+
+### Voetbaltechnische zaken
 
 tc@vvschijf.nl
 
-###### Hoofdtrainers
+### Hoofdtrainers
 
 **Heren 1**\
 Jan Hereijgers
@@ -69,7 +71,7 @@ Jan Hereijgers
 **Dames 1**\
 Ton van Dongen
 
-**Keepers; Jeugd + Senioren**
+**Keepers; Jeugd + Senioren**\
 Richard Fossen / Peter Valster 
 
 Voor meer informatie over het privacybeleid van vv Schijf: [AVG](/avg)

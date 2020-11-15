@@ -1,9 +1,7 @@
 {{ define "main" }}
-
-    {{ partial "jumbotron" (dict "imageUrl" "/img/header_dames.jpg" "class" "header-img") }}
-    {{ partial "jumbotron" (dict "imageUrl" "/img/header_heren.jpg" "class" "header-img") }}
+    {{ partial "jumbotron" (dict "imageUrl" "/img/header_dames.jpg" "title" .Title "class" "header-img") }}
+    {{ partial "jumbotron" (dict "imageUrl" "/img/header_heren.jpg" "title" .Title "class" "header-img") }}
     <div class="mw6 center ph3 pv4">
-        <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
         {{ if .Date }}
             <div class="flex justify-between grey-3">
                 <p class="mid-gray lh-title mb2">{{ .Date.Format "02-01-2006" }}</p>
