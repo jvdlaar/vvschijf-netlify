@@ -3,7 +3,7 @@ title: Clubinfo
 ---
 ***Het correspondentieadres, bezoekadres en de e-mailadressen waarop u ons kunt bereiken.***
 
-![Welkom bij R.K.V.V. Schijf](img/img_9508_3.jpg "Welkom bij R.K.V.V. Schijf")
+![Welkom bij R.K.V.V. Schijf](/img/img_9508_3.jpg "Welkom bij R.K.V.V. Schijf")
 
 ### Algemeen
 
@@ -27,7 +27,7 @@ Tel. 0165 34 31 15
 
 ### Hoofdbestuur
 
-![Hoofdbestuur](img/hoofdbestuur_.jpg "Hoofdbestuur")
+![Hoofdbestuur](/img/hoofdbestuur_.jpg "Hoofdbestuur")
 
 v.l.n.r. Rob Adriaensen, Jan Naalden, Sven Arink, Roy van Zundert, Paul Suijkerbuijk, Erwin Damen, Evelien Hack, Gerard Suijkerbuijk en Mieke Godrie.
 
@@ -47,7 +47,7 @@ v.l.n.r. Rob Adriaensen, Jan Naalden, Sven Arink, Roy van Zundert, Paul Suijkerb
 
 ### Jeugdbestuur
 
-![Jeugdbestuur](img/jeugdbestuur_.jpg "Jeugdbestuur")
+![Jeugdbestuur](/img/jeugdbestuur_.jpg "Jeugdbestuur")
 
 v.l.n.r. Hans van Merriënboer, Alwin van Aken, Gerard Suijkerbuijk, Rohan Oostvogels en Floris Naalden.
 
