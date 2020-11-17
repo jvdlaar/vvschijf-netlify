@@ -8,3 +8,9 @@
 
 [context.deploy-preview]
   command = "yarn build:preview"
+
+[[plugins]]
+    package = "netlify-plugin-subfont"
+
+[[plugins]]
+    package = "netlify-plugin-image-optim"
