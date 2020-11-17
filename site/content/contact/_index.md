@@ -1,19 +1,23 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: "Contact en Route"
+logo: "/img/img_9508_3.jpg"
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: "Sportpark de Zoek"
+    text: "Zoeksedijk 6, 4721 AT Schijf"
+    telephone: "[0165 34 31 15](tel:0165343115)"
+  - heading: Correspondentieadres
+    text: De Nieuwe Zoek 21, 4721 CA Schijf
+    email: secretaris@vvschijf.nl
+  - heading: Sponsoring
+    text: Rob Adriaensen
+    email: sponsoring@vvschijf.nl
+  - heading: Wedstrijdsecretariaat
+    text: Erwin Damen
+    email: wedstrijdsecretariaat@vvschijf.nl
+  - heading: Wedstrijdsecretaris jeugd
+    text: José Verhoeven
+    email: jeugd@vvschijf.nl
+  - heading: Activiteiten
+    text: Fleur Suijkerbuijk
+    email: activiteiten@vvschijf.nl
 ---
-
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
-
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!

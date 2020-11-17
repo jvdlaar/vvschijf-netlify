@@ -1,20 +1,27 @@
 {{ define "main" }}
 
+{{ partial "jumbotron" (dict "imageUrl" "/img/header_dames.jpg" "title" .Title "class" "header-img") }}
+{{ partial "jumbotron" (dict "imageUrl" "/img/header_heren.jpg" "title" .Title "class" "header-img") }}
+
 <div class="ph3 bg-off-white">
 	<div class="center mw6 pv3">
 
-		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4">
+		<img src="{{ .Params.logo }}" alt="" class="db center mb3">
 
-		{{ .Content }}
-
-		<div class="flex-ns mb3">
-	        	{{ range .Params.contact_entries }}
-				<div>
-					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
-					<p>{{ .text }}</p>
-				</div>
+		<div class="flex-ns flex-wrap mhn2-ns mb3">
+			{{ range .Params.contact_entries }}
+			<div class="ph2-ns w-50-ns mb4">
+				<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
+				<ul>
+					<li>{{ .text }}</li>
+					{{ if .telephone }}<li>{{ .telephone | $.RenderString }}</li>{{ end }}
+					{{ if .email }}<li>{{ .email | $.RenderString }}</li>{{ end }}
+				</ul>
+			</div>
 			{{ end }}
 		</div>
+
+		{{ .Content }}
 
 		{{ partial "contact-form" . }}
 

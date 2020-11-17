@@ -44,19 +44,25 @@ collections: # A list of collections the CMS should be able to edit
         label: "Contact Page"
         name: "contact"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Logo, name: logo, widget: image}
+          - {label: Titel, name: title, widget: string}
+          - {label: Afbeelding, name: logo, widget: image}
           - {label: Body, name: body, widget: markdown}
-          - label: Contact Entries
+          - label: Contact regels
             name: contact_entries
             widget: list
             fields:
-              - label: Heading
+              - label: Kop
                 name: heading
                 widget: string
-              - label: Text
+              - label: Tekst
                 name: text
-                widget: text
+                widget: string
+              - label: E-mailadres
+                name: email
+                widget: string
+              - label: Telefoonnummer
+                name: telephone
+                widget: string
       - file: "site/content/products/_index.md"
         label: "Products Page"
         name: "products"

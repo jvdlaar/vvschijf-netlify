@@ -57,7 +57,7 @@ v.l.n.r. Hans van Merriënboer, Alwin van Aken, Gerard Suijkerbuijk, Rohan Oostv
 | ------------------------- | -------------------- | ----------------- | -------- |
 | Voorzitter                | Hans van Merrienboer | \-                | \-       |
 | Secretaris                | vacant               | \-                | \-       |
-| Wedstrijdsecretaris Jeugd | José Verhoeven       | jeugd@vvschijf.nl | \-       |
+| Wedstrijdsecretaris jeugd | José Verhoeven       | jeugd@vvschijf.nl | \-       |
 | Bestuurslid               | Floris Naalden       | \-                | \-       |
 | Bestuurslid               | Kristel Snepvangers  | \-                | \-       |
 | Bestuurslid               | vacant               | \-                | \-       |
