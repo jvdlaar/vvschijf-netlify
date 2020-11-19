@@ -1,0 +1,39 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" "/img/header_dames.jpg" "title" .Title "class" "header-img") }}
+{{ partial "jumbotron" (dict "imageUrl" "/img/header_heren.jpg" "title" .Title "class" "header-img") }}
+
+<div class="mw6 center ph3 pv4">
+    <div class="flex-ns flex-wrap mhn2-ns mb3">
+        <div class="ph2-ns w-50-ns">
+            <h2>Heren</h2>
+            <ul class="circle ph3 mb2">
+                {{ range where .Pages.ByTitle "Params.category" "heren" }}
+                    <li>
+                        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    </li>
+                {{ end }}
+            </ul>
+            <h2>Dames</h2>
+            <ul class="circle ph3">
+                {{ range where .Pages.ByTitle "Params.category" "dames" }}
+                    <li>
+                        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    </li>
+                {{ end }}
+            </ul>
+        </div>
+        <div class="ph2-ns w-50-ns">
+            <h2>Junioren</h2>
+            <ul class="circle ph3">
+                {{ range where .Pages.ByTitle "Params.category" "junior" }}
+                    <li>
+                        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    </li>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+</div>
+
+{{end}}

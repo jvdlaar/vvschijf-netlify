@@ -20,6 +20,15 @@ collections: # A list of collections the CMS should be able to edit
         widget: list
         fields:
           - { label: "Afbeelding", name: "image", widget: "image" }
+  - name: "teams"
+    label: "Teams"
+    folder: "site/content/teams"
+    create: true
+    fields:
+      - {label: "Teamnaam", name: "title", widget: "string"}
+      - {label: "Categorie", name: "category", widget: "select", options: ["junior", "heren", "dames"]}
+      - {label: "Teamfoto", name: "image", widget: "image", required: false }
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
     files:
@@ -63,29 +72,44 @@ collections: # A list of collections the CMS should be able to edit
               - label: Telefoonnummer
                 name: telephone
                 widget: string
-      - file: "site/content/products/_index.md"
-        label: "Products Page"
-        name: "products"
+      - file: "site/content/sponsors/_index.md"
+        label: "Sponsoring"
+        name: "sponsors"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - {label: Heading, name: heading, widget: string}
-          - {label: Description, name: description, widget: string}
-          - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
-          - {label: Main, name: main, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Image1, name: image1, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image2, name: image2, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image3, name: image3, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}]}
-          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
-          - {label: Full_image, name: full_image, widget: image}
-          - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
-      - file: "site/content/values/_index.md"
-        label: "Values Page"
-        name: "values"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - label: Values
-            name: values
+          - {label: Titel, name: title, widget: string}
+          - { label: Body, name: body, widget: markdown }
+          - label: "Topsponsor"
+            name: top
             widget: list
             fields:
-              - {label: Heading, name: heading, widget: string}
-              - {label: Text, name: text, widget: text}
-              - {label: Image, name: imageUrl, widget: image}
+            - { label: "Afbeelding", name: "image", widget: "image" }
+          - label: "Kleding"
+            name: clothing
+            widget: list
+            fields:
+            - { label: "Afbeelding", name: "image", widget: "image" }
+          - label: "Reclamebord"
+            name: boarding
+            widget: list
+            fields:
+            - { label: "Afbeelding", name: "image", widget: "image" }
+          - label: "Wedstrijdbal"
+            name: ball
+            widget: list
+            fields:
+            - { label: "Afbeelding", name: "image", widget: "image" }
+          - label: "Materiaalsponsor"
+            name: materials
+            widget: list
+            fields:
+            - { label: "Afbeelding", name: "image", widget: "image" }
+          - label: "Websitesponsor"
+            name: website
+            widget: list
+            fields:
+            - { label: "Afbeelding", name: "image", widget: "image" }
+          - label: "Kantinesponsor"
+            name: canteen
+            widget: list
+            fields:
+            - { label: "Afbeelding", name: "image", widget: "image" }
