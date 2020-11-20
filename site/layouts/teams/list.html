@@ -1,7 +1,6 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" "/img/header_dames.jpg" "title" .Title "class" "header-img") }}
-{{ partial "jumbotron" (dict "imageUrl" "/img/header_heren.jpg" "title" .Title "class" "header-img") }}
+{{ partial "header-images" (dict "title" .Title) }}
 
 <div class="mw6 center ph3 pv4">
     <div class="flex-ns flex-wrap mhn2-ns mb3">
@@ -15,7 +14,7 @@
                 {{ end }}
             </ul>
             <h2>Dames</h2>
-            <ul class="circle ph3">
+            <ul class="circle ph3 mb2">
                 {{ range where .Pages.ByTitle "Params.category" "dames" }}
                     <li>
                         <a href="{{ .RelPermalink }}">{{ .Title }}</a>

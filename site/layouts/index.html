@@ -1,11 +1,10 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" "/img/header_dames.jpg" "title" .Params.blurb.heading "subtitle" .Params.blurb.text "class" "header-img") }}
-{{ partial "jumbotron" (dict "imageUrl" "/img/header_heren.jpg" "title" .Params.blurb.heading "subtitle" .Params.blurb.text "class" "header-img") }}
+{{ partial "header-images" (dict "title" .Params.blurb.heading "subtitle" .Params.blurb.text) }}
 
 {{ partial "news" . }}
 
-Losse paginas - Sponsoren - Uploads
+AVG download - Sponsoren - Succespagina formulier - Teamfotos - oud papier download - supportersvereniging logo + download
 
 <div class="bg-off-white pv4">
     <div class="ph3 mw7 center">

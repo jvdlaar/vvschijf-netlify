@@ -1,6 +1,5 @@
 {{ define "main" }}
-    {{ partial "jumbotron" (dict "imageUrl" "/img/header_dames.jpg" "title" .Title "class" "header-img") }}
-    {{ partial "jumbotron" (dict "imageUrl" "/img/header_heren.jpg" "title" .Title "class" "header-img") }}
+    {{ partial "header-images" (dict "title" .Title) }}
 
     <div class="mw6 center ph3 pv4">
         {{ if .Date }}
