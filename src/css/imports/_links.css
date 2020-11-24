@@ -12,6 +12,9 @@
   transition: color .15s ease-in;
   text-decoration: underline;
 }
+.footer-link:hover   {
+  color: var(--primary);
+}
 .link:active  {
   transition: color .15s ease-in;
 }

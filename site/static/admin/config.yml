@@ -80,7 +80,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Titel, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
       - file: "site/content/contact/_index.md"
-        label: "Contact Page"
+        label: "Contact"
         name: "contact"
         fields:
           - {label: Titel, name: title, widget: string}
@@ -102,6 +102,13 @@ collections: # A list of collections the CMS should be able to edit
               - label: Telefoonnummer
                 name: telephone
                 widget: string
+      - file: "site/content/routebeschrijving/_index.md"
+        label: "Routebeschrijving"
+        name: "routebeschrijving"
+        fields:
+          - {label: Titel, name: title, widget: string}
+          - {label: Afbeelding, name: logo, widget: image}
+          - {label: Body, name: body, widget: markdown}
       - file: "site/content/sponsors/_index.md"
         label: "Sponsoring"
         name: "sponsors"

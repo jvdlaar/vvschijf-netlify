@@ -1,5 +1,5 @@
 ---
-title: "Contact en Route"
+title: "Contact"
 logo: "/img/img_9508_3.jpg"
 contact_entries:
   - heading: "Sportpark de Zoek"

@@ -1,0 +1,76 @@
+<!-- Contact -->
+<div class="mb4">
+  <h4 class="f3 b lh-title mb3 tc">Voor al uw algemene vragen en opmerkingen</h4>
+
+  <form name="contact" method="POST" data-netlify="true">
+    <div class="flex-l mhn1-l">
+      <!-- Name -->
+      <fieldset>
+        <input type="text" id="name" name="Naam" placeholder="Naam" class="w-100 mb2">
+        <label for="name">Naam</label>
+      </fieldset>
+      <!-- Phone -->
+      <fieldset>
+        <input type="tel" id="phone" name="Telefoonnummer" placeholder="Telefoonnummer" class="w-100 mb2">
+        <label for="phone">Telefoonnummer</label>
+      </fieldset>
+      <!-- Email -->
+      <fieldset>
+        <input type="email" id="email" name="E-mailadres" placeholder="E-mailadres" class="w-100 mb2">
+        <label for="email">E-mailadres</label>
+      </fieldset>
+      <!-- Company -->
+      <fieldset>
+        <input type="text" id="company" name="Bedrijfsnaam" placeholder="Bedrijfsnaam" class="w-100 mb2">
+        <label for="company">Bedrijfsnaam</label>
+      </fieldset>
+      <!-- Company -->
+      <fieldset>
+        <label>Meer informatie over sponsor type</label>
+        <ul>
+          <li>
+            <input type="radio" id="Topsponsor" name="Topsponsor">
+            <label for="Topsponsor">Topsponsor</label>
+          </li>
+          <li>
+            <input type="radio" id="Kleding" name="Kleding">
+            <label for="Kleding">Kleding</label>
+          </li>
+          <li>
+            <input type="radio" id="Reclamebord" name="Reclamebord">
+            <label for="Reclamebord">Reclamebord</label>
+          </li>
+          <li>
+            <input type="radio" id="Wedstrijdbal" name="Wedstrijdbal">
+            <label for="Wedstrijdbal">Wedstrijdbal</label>
+          </li>
+          <li>
+            <input type="radio" id="Materiaalsponsor" name="Materiaalsponsor">
+            <label for="Materiaalsponsor">Materiaalsponsor</label>
+          </li>
+          <li>
+            <input type="radio" id="Websitesponsor" name="Websitesponsor">
+            <label for="Websitesponsor">Websitesponsor</label>
+          </li>
+          <li>
+            <input type="radio" id="Kantinesponsor" name="Kantinesponsor">
+            <label for="Kantinesponsor">Kantinesponsor</label>
+          </li>
+        </ul>
+      </fieldset>
+    </div>
+
+    <!-- Message -->
+    <fieldset>
+      <textarea id="message" name="Bericht" placeholder="Uw bericht" rows="8" cols="80" class="w-100"></textarea>
+      <label for="message">Uw bericht</label>
+    </fieldset>
+
+    <input type="hidden" name="form-name" value="contact">
+
+    <!-- Button -->
+    <div class="tc">
+      <button type="submit" class="btn w-100 w-auto-ns raise">Verzenden</button>
+    </div>
+  </form>
+</div>
