@@ -10,9 +10,16 @@
         <div class="cms mw6">
             <p><em>{{ .Description }}</em></p>
             {{ if .Params.image }}
-                <img src="{{ .Params.image }}" alt="{{ .Title }}" />
+                <img src="{{ .Params.image }}" />
             {{ end }}
+
             {{ .Content }}
+
+            {{ if .Params.download }}
+                <p>
+                    <a href="{{ .Params.download }}">{{ path.Base .Params.download }}</a>
+                </p>
+            {{ end }}
 
             {{ if .Params.images }}
                 <div class="flex-ns mhn2-ns mb3" id="lightbox-images">
