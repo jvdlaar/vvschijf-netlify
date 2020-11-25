@@ -1,5 +1,6 @@
 ---
-title: Privacyverklaring RKVV Schijf 
+title: Privacyverklaring RKVV Schijf
+download: /img/privacy_verklaring_rkvv_schijf.pdf
 ---
 
 RKVV Schijf gevestigd te Schijf, respecteert uw privacy en hecht aan de
