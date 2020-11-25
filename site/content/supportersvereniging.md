@@ -1,5 +1,6 @@
 ---
 title: Supportersvereniging
+download: /img/aanmeldingsformulier.docx
 ---
 
 VV Schijf heeft een trouwe supportersvereniging **'De Vrienden van Schijf'**
