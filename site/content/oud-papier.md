@@ -1,5 +1,6 @@
 ---
 title: Oud papier
+download: /img/oud-papier.jpeg
 ---
 
 ## Volgende ophaaldatum oud papier:
