@@ -15,10 +15,11 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Introductietekst", name: "description", widget: "text"}
       - {label: "Hoofdafbeelding", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-      - { label: Download, name: download, widget: file }
+      - {label: Download, name: download, widget: file, required: false}
       - label: "Afbeeldingen"
         name: images
         widget: list
+        required: false
         fields:
           - { label: "Afbeelding", name: "image", widget: "image" }
   - name: "teams"
@@ -30,7 +31,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Categorie", name: "category", widget: "select", options: ["junior", "heren", "dames"]}
       - {label: "Teamfoto", name: "image", widget: "image", required: false }
       - {label: "Body", name: "body", widget: "markdown"}
-      - { label: Download, name: download, widget: file }
+      - {label: Download, name: download, widget: file, required: false}
   - name: "pages"
     label: "Pages"
     files:
@@ -51,42 +52,42 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Titel, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
-          - { label: Download, name: download, widget: file }
+          - {label: Download, name: download, widget: file, required: false}
       - file: "site/content/lidmaatschap.md"
         label: "Lidmaatschap"
         name: "lidmaatschap"
         fields:
           - {label: Titel, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
-          - { label: Download, name: download, widget: file }
+          - {label: Download, name: download, widget: file, required: false}
       - file: "site/content/oud-papier.md"
         label: "Oud papier"
         name: "oud-papier"
         fields:
           - {label: Titel, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
-          - { label: Download, name: download, widget: file }
+          - {label: Download, name: download, widget: file, required: false}
       - file: "site/content/privacy.md"
         label: "Privacy"
         name: "privacy"
         fields:
           - {label: Titel, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
-          - {label: Download, name: download, widget: file}
+          - {label: Download, name: download, widget: file, required: false}
       - file: "site/content/supportersvereniging.md"
         label: "Supportersvereniging"
         name: "supportersvereniging"
         fields:
           - {label: Titel, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
-          - { label: Download, name: download, widget: file }
+          - {label: Download, name: download, widget: file, required: false}
       - file: "site/content/afgelastingen.md"
         label: "Afgelastingen"
         name: "afgelastingen"
         fields:
           - {label: Titel, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
-          - { label: Download, name: download, widget: file }
+          - {label: Download, name: download, widget: file, required: false}
       - file: "site/content/contact/_index.md"
         label: "Contact"
         name: "contact"
