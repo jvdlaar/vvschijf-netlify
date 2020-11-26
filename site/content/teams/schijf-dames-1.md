@@ -1,6 +1,7 @@
 ---
 title: Dames 1
 category: dames
+image: /img/elftalfoto_vvschijf_vr1_martenskopie.jpg
 ---
 
 ## 2e KLASSE ZONDAG
