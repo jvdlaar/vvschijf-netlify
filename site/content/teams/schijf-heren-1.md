@@ -1,6 +1,7 @@
 ---
 title: Heren 1
 category: heren
+image: /img/vvschijf_h1_znr.jpg
 ---
 
 ## Trainingstijden
