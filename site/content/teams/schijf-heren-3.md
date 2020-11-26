@@ -1,6 +1,7 @@
 ---
 title: Heren 3
 category: heren
+image: /img/vv_schijf_h3_2016-2017.jpg
 ---
 
 ## Trainingstijden
