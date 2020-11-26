@@ -1,5 +1,5 @@
 import React from "react";
-import { markdownToHtml } from 'netlify-cms-widget-markdown/serializers';
+import {markdownToHtml} from 'netlify-cms-widget-markdown/serializers/index.js';
 
 const ContactEntry = ({heading, text, telephone, email}) =>
   <div className="ph2-ns w-50-ns mb4">
