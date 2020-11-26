@@ -1,6 +1,7 @@
 ---
 title: Dames 3
 category: dames
+image: /img/vv_schijf_da3_2016-2017.jpg
 ---
 
 ## 5e KLASSE ZONDAG
