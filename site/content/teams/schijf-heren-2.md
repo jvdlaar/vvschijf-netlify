@@ -1,6 +1,7 @@
 ---
 title: Heren 2
 category: heren
+image: /img/vv_schijf_h2_2016-2017.jpg
 ---
 
 ## Trainingstijden
