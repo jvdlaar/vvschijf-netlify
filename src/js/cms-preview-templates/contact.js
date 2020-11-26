@@ -1,14 +1,19 @@
 import React from "react";
+import { markdownToHtml } from './serializers';
 
-const ContactEntry = ({heading, text}) =>
-  <div>
+const ContactEntry = ({heading, text, telephone, email}) =>
+  <div className="ph2-ns w-50-ns mb4">
     <h4 className="f4 b lh-title mb2 primary">{ heading }</h4>
-    <p>{ text }</p>
+    <ul>
+      <li>{ text }</li>
+      <li>{ markdownToHtml(telephone) }</li>
+      <li>{ markdownToHtml(email) }</li>
+    </ul>
   </div>;
 
 const ContactEntries = ({data}) => data && data.length > 0
-    ? <div className="flex-ns mb3">
-      {data.map(({heading, text}) => <ContactEntry heading={heading} text={text} />)}
+    ? <div className="flex-ns flex-wrap mhn2-ns mb3">
+      {data.map(({heading, text, telephone, email}) => <ContactEntry heading={heading} text={text} telephone={telephone} email={email} />)}
     </div>
     : "";
 
@@ -18,10 +23,10 @@ export default class ContactPreview extends React.Component {
     const entryContactEntries = entry.getIn(["data", "contact_entries"]);
     const contactEntries = entryContactEntries ? entryContactEntries.toJS() : [];
     return <div className="ph3 bg-off-white">
-      <img src={getAsset(entry.getIn(["data", "logo"]))} alt="" className="db w4 center pv4" />
       <div className="center mw6 pv3">
-        { widgetFor("body") }
+        <img src={getAsset(entry.getIn(["data", "logo"]))} alt="" className="db w4 center pv4" />
         <ContactEntries data={contactEntries} />
+        { widgetFor("body") }
       </div>
     </div>;
   }

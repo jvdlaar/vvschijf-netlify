@@ -10,7 +10,6 @@ collections: # A list of collections the CMS should be able to edit
   - name: "nieuws" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Nieuws en activiteiten" # Used in the UI, ie.: "New Post"
     folder: "site/content/nieuws" # The path to the folder where the documents are stored
-    preview_path: "nieuws/{{slug}}"
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Titel", name: "title", widget: "string"}
@@ -28,7 +27,6 @@ collections: # A list of collections the CMS should be able to edit
   - name: "teams"
     label: "Teams"
     folder: "site/content/teams"
-    preview_path: "teams/{{slug}}"
     create: true
     fields:
       - {label: "Teamnaam", name: "title", widget: "string"}
@@ -42,7 +40,6 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/_index.md"
         label: "Home Page"
         name: "home"
-        preview_path: "/"
         fields:
           - {label: Titel, name: title, widget: string}
           - label: "Notificatie"
@@ -54,7 +51,6 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/clubinfo.md"
         label: "Clubinfo"
         name: "clubinfo"
-        preview_path: "clubinfo"
         fields:
           - {label: Titel, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
@@ -62,7 +58,6 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/lidmaatschap.md"
         label: "Lidmaatschap"
         name: "lidmaatschap"
-        preview_path: "lidmaatschap"
         fields:
           - {label: Titel, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
@@ -70,7 +65,6 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/oud-papier.md"
         label: "Oud papier"
         name: "oud-papier"
-        preview_path: "oud-papier"
         fields:
           - {label: Titel, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
@@ -78,7 +72,6 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/privacy.md"
         label: "Privacy"
         name: "privacy"
-        preview_path: "privacy"
         fields:
           - {label: Titel, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
@@ -93,7 +86,6 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/afgelastingen.md"
         label: "Afgelastingen"
         name: "afgelastingen"
-        preview_path: "afgelastingen"
         fields:
           - {label: Titel, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
@@ -101,7 +93,6 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/contact/_index.md"
         label: "Contact"
         name: "contact"
-        preview_path: "contact"
         fields:
           - {label: Titel, name: title, widget: string}
           - {label: Afbeelding, name: logo, widget: image}
@@ -125,7 +116,6 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/routebeschrijving/_index.md"
         label: "Routebeschrijving"
         name: "routebeschrijving"
-        preview_path: "routebeschrijving"
         fields:
           - {label: Titel, name: title, widget: string}
           - {label: Afbeelding, name: logo, widget: image}
@@ -133,7 +123,6 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/sponsors/_index.md"
         label: "Sponsoring"
         name: "sponsors"
-        preview_path: "sponsors"
         fields:
           - {label: Titel, name: title, widget: string}
           - { label: Body, name: body, widget: markdown }
