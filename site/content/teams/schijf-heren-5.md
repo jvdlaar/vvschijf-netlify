@@ -1,6 +1,7 @@
 ---
 title: Heren 5
 category: heren
+image: /img/vv_schijf_h5_v_nijnatten_2016-2017.jpg
 ---
 
 ## Trainingstijden
