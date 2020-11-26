@@ -1,6 +1,7 @@
 ---
 title: Heren 4
 category: heren
+image: /img/vv_schijf_h4_2016-2017.jpg
 ---
 
 ## Trainingstijden
