@@ -6,8 +6,8 @@ const ContactEntry = ({heading, text, telephone, email}) =>
     <h4 className="f4 b lh-title mb2 primary">{ heading }</h4>
     <ul>
       <li>{ text }</li>
-      <li>{ markdownToHtml(telephone) }</li>
-      <li>{ markdownToHtml(email) }</li>
+      <li>{{__html: markdownToHtml(telephone) }}</li>
+      <li><a href="mailto:{ email }">{ email }</a></li>
     </ul>
   </div>;
 
