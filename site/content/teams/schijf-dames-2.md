@@ -1,5 +1,6 @@
 ---
 title: Dames 2
+visible: true
 category: dames
 image: /img/vv_schijf_da2_2016-2017.jpg
 ---

@@ -1,5 +1,6 @@
 ---
 title: Heren 1
+visible: true
 category: heren
 image: /img/vvschijf_h1_znr.jpg
 ---

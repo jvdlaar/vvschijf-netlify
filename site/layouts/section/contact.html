@@ -14,7 +14,7 @@
 				<ul>
 					<li>{{ .text }}</li>
 					{{ if .telephone }}<li>{{ .telephone | $.RenderString }}</li>{{ end }}
-					{{ if .email }}<li>{{ .email | $.RenderString }}</li>{{ end }}
+					{{ if .email }}<li><a href="mailto:{{ .email }}">{{ .email }}</a></li>{{ end }}
 				</ul>
 			</div>
 			{{ end }}

@@ -1,5 +1,6 @@
 ---
 title: J011-1
+visible: true
 category: junior
 ---
 

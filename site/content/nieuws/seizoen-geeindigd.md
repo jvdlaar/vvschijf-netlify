@@ -1,5 +1,6 @@
 ---
 title: Seizoen is geëindigd
+visible: true
 date: 2020-05-01T15:04:10.000Z
 description: >-
     Het seizoen 2019-2020 is per direct geëindigd. Er zijn geen kampioenen of degradanten dit seizoen. Het sportpark is tot nader order gesloten voor activiteiten.

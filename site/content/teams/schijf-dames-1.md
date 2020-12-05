@@ -1,5 +1,6 @@
 ---
 title: Dames 1
+visible: true
 category: dames
 image: /img/elftalfoto_vvschijf_vr1_martenskopie.jpg
 ---

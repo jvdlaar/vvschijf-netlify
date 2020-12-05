@@ -1,3 +1,4 @@
 ---
 title: "Teams"
+visible: false
 ---

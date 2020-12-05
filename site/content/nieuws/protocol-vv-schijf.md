@@ -1,5 +1,6 @@
 ---
 title: Protocol vv Schijf
+visible: true
 date: 2020-09-28T15:04:10.000Z
 description: >-
   Update nav persconferentie d.d. 28 september 2020

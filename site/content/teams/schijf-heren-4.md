@@ -1,5 +1,6 @@
 ---
 title: Heren 4
+visible: true
 category: heren
 image: /img/vv_schijf_h4_2016-2017.jpg
 ---
