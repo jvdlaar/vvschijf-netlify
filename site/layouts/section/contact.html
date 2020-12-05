@@ -10,7 +10,7 @@
 		<div class="flex-ns flex-wrap mhn2-ns mb3">
 			{{ range .Params.contact_entries }}
 			<div class="ph2-ns w-50-ns mb4">
-				<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
+				<h2 class="f4 b lh-title mb2 primary">{{ .heading }}</h2>
 				<ul>
 					<li>{{ .text }}</li>
 					{{ if .telephone }}<li>{{ .telephone | $.RenderString }}</li>{{ end }}

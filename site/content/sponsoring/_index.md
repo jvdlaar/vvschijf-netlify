@@ -26,6 +26,8 @@ clothing:
   - image: /img/aannemersbedrijfrens.png
   - image: /img/visitekaart_znr.png
 ---
+## Sponsor worden?
+
 Benieuwd naar de mogelijkheden om sponsor van VV Schijf te worden? Gebruik dan ons sponsorings contactformulier of neem dan contact op met:
 
 **Rob Adriaensen**\
