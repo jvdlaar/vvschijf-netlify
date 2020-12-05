@@ -135,33 +135,40 @@ collections: # A list of collections the CMS should be able to edit
             widget: list
             fields:
             - { label: "Afbeelding", name: "image", widget: "image" }
+            - { label: "Link", name: "link", widget: "string", required: false }
           - label: "Kleding"
             name: clothing
             widget: list
             fields:
             - { label: "Afbeelding", name: "image", widget: "image" }
+            - { label: "Link", name: "link", widget: "string", required: false }
           - label: "Reclamebord"
             name: boarding
             widget: list
             fields:
             - { label: "Afbeelding", name: "image", widget: "image" }
+            - { label: "Link", name: "link", widget: "string", required: false }
           - label: "Wedstrijdbal"
             name: ball
             widget: list
             fields:
             - { label: "Afbeelding", name: "image", widget: "image" }
+            - { label: "Link", name: "link", widget: "string", required: false }
           - label: "Materiaalsponsor"
             name: materials
             widget: list
             fields:
             - { label: "Afbeelding", name: "image", widget: "image" }
+            - { label: "Link", name: "link", widget: "string", required: false }
           - label: "Websitesponsor"
             name: website
             widget: list
             fields:
             - { label: "Afbeelding", name: "image", widget: "image" }
+            - { label: "Link", name: "link", widget: "string", required: false }
           - label: "Kantinesponsor"
             name: canteen
             widget: list
             fields:
             - { label: "Afbeelding", name: "image", widget: "image" }
+            - { label: "Link", name: "link", widget: "string", required: false }
