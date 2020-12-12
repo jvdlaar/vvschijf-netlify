@@ -1,9 +1,9 @@
 <!-- Contact -->
-<div class="mb4">
+<div class="mb4" id="form">
   <h4 class="f3 b lh-title mb3 tc">Voor al uw algemene vragen en opmerkingen</h4>
 
   <form name="sponsoring" method="POST" data-netlify="true" action="/sponsoring-succes">
-    <div class="flex-l mhn1-l">
+    <div class="mhn1-l">
       <!-- Name -->
       <fieldset>
         <input type="text" id="name" name="Naam" placeholder="Naam" class="w-100 mb2">
@@ -22,38 +22,38 @@
       <!-- Company -->
       <fieldset>
         <input type="text" id="company" name="Bedrijfsnaam" placeholder="Bedrijfsnaam" class="w-100 mb2">
-        <label for="company">Bedrijfsnaam</label>
+        <label for="company" class="tooltip">Bedrijfsnaam</label>
       </fieldset>
       <!-- Company -->
-      <fieldset>
-        <label>Meer informatie over sponsor type</label>
-        <ul>
-          <li>
-            <input type="radio" id="Topsponsor" name="Topsponsor">
+      <fieldset class="mv2">
+        <h3>Meer informatie over sponsor type:</h3>
+        <ul class="mh4">
+          <li class="mv1">
+            <input type="radio" id="Topsponsor" value="Topsponsor" name="Sponsor type">
             <label for="Topsponsor">Topsponsor</label>
           </li>
-          <li>
-            <input type="radio" id="Kleding" name="Kleding">
+          <li class="mv1">
+            <input type="radio" id="Kleding" value="Kleding" name="Sponsor type">
             <label for="Kleding">Kleding</label>
           </li>
-          <li>
-            <input type="radio" id="Reclamebord" name="Reclamebord">
+          <li class="mv1">
+            <input type="radio" id="Reclamebord" value="Reclamebord" name="Sponsor type">
             <label for="Reclamebord">Reclamebord</label>
           </li>
-          <li>
-            <input type="radio" id="Wedstrijdbal" name="Wedstrijdbal">
+          <li class="mv1">
+            <input type="radio" id="Wedstrijdbal" value="Wedstrijdbal" name="Sponsor type">
             <label for="Wedstrijdbal">Wedstrijdbal</label>
           </li>
-          <li>
-            <input type="radio" id="Materiaalsponsor" name="Materiaalsponsor">
+          <li class="mv1">
+            <input type="radio" id="Materiaalsponsor" value="Materiaalsponsor" name="Sponsor type">
             <label for="Materiaalsponsor">Materiaalsponsor</label>
           </li>
-          <li>
-            <input type="radio" id="Websitesponsor" name="Websitesponsor">
+          <li class="mv1">
+            <input type="radio" id="Websitesponsor" value="Websitesponsor" name="Sponsor type">
             <label for="Websitesponsor">Websitesponsor</label>
           </li>
-          <li>
-            <input type="radio" id="Kantinesponsor" name="Kantinesponsor">
+          <li class="mv1">
+            <input type="radio" id="Kantinesponsor" value="Kantinesponsor" name="Sponsor type">
             <label for="Kantinesponsor">Kantinesponsor</label>
           </li>
         </ul>

@@ -14,7 +14,7 @@ fieldset
   padding: 0;
 }
 
-input, textarea {
+input:not([type="radio"]), textarea {
   background-color: var(--grey-2);
   border-radius: var(--border-radius);
   padding: 12px 16px 10px;
@@ -57,7 +57,8 @@ input, textarea {
    line-height: normal;
 }
 
-form label
+form input:not([type="radio"]) + label,
+form textarea + label
 {
   font-size: .875rem;
   font-weight: 800;
