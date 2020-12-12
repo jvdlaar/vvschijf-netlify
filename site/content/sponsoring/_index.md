@@ -53,6 +53,20 @@ boarding:
     image: /img/vleeswinkeltje.png
   - link: http://www.desnep.nl/
     image: /img/snep_bandenservice.png
+  - link: http://www.bergamohavando.nl/
+    image: /img/logo_bergamo-havando.png
+  - link: http://www.elkorentals.nl/home/
+    image: /img/elko_rentals.png
+  - link: http://www.jansenhoveniers.com/
+    image: /img/jansen_hoveniers.png
+  - link: http://www.snijdersverfenbehang.nl/
+    image: /img/snijders.png
+  - image: /img/dynamico_fysiotherapie.png
+    link: http://www.dynamico.nl/
+  - link: http://www.altijdlekkerslapen.nl/
+    image: /img/slaapcomfort_suykerbuyk.png
+  - link: http://www.rotako.nl/
+    image: /img/rotako.png
 ---
 ## Sponsor worden?
 
