@@ -1,154 +1,224 @@
 ---
 title: Sponsoring
 top:
-  - image: /img/van_meer_schoenen.png
+  - title: Van Meer Schoenen
+    image: /img/van_meer_schoenen.png
     link: http://www.vanmeerschoenen.nl/
-  - image: /img/visitekaart_znr.png
+  - title: Zuid-Nederlandse ramenfabriek
+    image: /img/visitekaart_znr.png
     link: http://www.znrbv.nl/
 clothing:
-  - image: /img/loon_en_grondwerkbedrijf_martens_1.png
+  - title: Loon- en Grondwerkbedrijf Martens
+    image: /img/loon_en_grondwerkbedrijf_martens_1.png
     link: http://www.martensoudenbosch.nl/
-  - image: /img/antmar.png
-  - image: /img/van_meer_schoenen.png
+  - title: Antmar B.V.
+    image: /img/antmar.png
+  - title: Van Meer Schoenen
+    image: /img/van_meer_schoenen.png
     link: http://www.vanmeerschoenen.nl/
-  - image: /img/kir_royal.png
+  - title: Kir Royal
+    image: /img/kir_royal.png
     link: http://www.kirroyal.nl/
-  - image: /img/adviesburo_lara.png
-  - image: /img/autobedrijfschijf.png
+  - title: Adviesburo LaRa
+    image: /img/adviesburo_lara.png
+  - title: Autobedrijf Schijf
+    image: /img/autobedrijfschijf.png
     link: http://www.autobedrijfschijf.nl/
-  - image: /img/gege_letters.png
+  - title: GéGé Letters
+    image: /img/gege_letters.png
     link: http://www.gegeletters.nl/
-  - image: /img/dynamico_fysiotherapie.png
+  - title: Dynamico Fysiotherapie
+    image: /img/dynamico_fysiotherapie.png
     link: http://www.dynamico.nl/
-  - image: /img/speelboerderij_den_scherpenberg.png
+  - title: Speelboerderij den Scherpenberg
+    image: /img/speelboerderij_den_scherpenberg.png
     link: http://www.denscherpenberg.nl/
-  - image: /img/martens-tweewielers.png
+  - title: Martens Tweewielers
+    image: /img/martens-tweewielers.png
     link: http://www.martens-tweewielers.nl/
-  - image: /img/ned_personeel.png
+  - title: Ned. personeel
+    image: /img/ned_personeel.png
     link: http://www.ned-personeel.nl/
-  - image: /img/attent_bouman2.png
+  - title: Attent Bouman
+    image: /img/attent_bouman2.png
     link: http://www.attentschijf.nl/index.html
-  - image: /img/tlssc.png
+  - title: The Lean Six Sigma company
+    image: /img/tlssc.png
     link: http://www.theleansixsigmacompany.nl/
-  - image: /img/hetwapenvanschijf.png
+  - title: Het Wapen van Schijf
+    image: /img/hetwapenvanschijf.png
     link: http://www.wapenvanschijf.nl/
-  - image: /img/schipper_0.png
+  - title: Schipper groep
+    image: /img/schipper_0.png
     link: https://schippergroep.nl
-  - image: /img/vanzundertgraszoden.png
+  - title: Van Zundert Graszoden
+    image: /img/vanzundertgraszoden.png
     link: http://graszodenvanzundert.nl/
-  - image: /img/de_kwet_timmerwerken.png
+  - title: De Kwet Timmerwerken
+    image: /img/de_kwet_timmerwerken.png
     link: https://www.facebook.com/DeKwetTimmerwerken/?pnref=lhc
-  - image: /img/vleeswinkeltje.png
+  - title: "'t Vleeswienkeltje"
+    image: /img/vleeswinkeltje.png
     link: http://www.vleeswienkeltje.nl/
-  - image: /img/hl.png
+  - title: H&L Accountants
+    image: /img/hl.png
     link: http://www.hlaccountants.nl/
-  - image: /img/aannemersbedrijfrens.png
+  - title: Aannemersbedrijf Rens
+    image: /img/aannemersbedrijfrens.png
     link: http://www.aannemersbedrijfrens.nl/
-  - image: /img/visitekaart_znr.png
+  - title: Zuid-Nederlandse ramenfabriek
+    image: /img/visitekaart_znr.png
     link: http://www.znrbv.nl/
 boarding:
-  - image: /img/schipper_0.png
+  - title: Schipper groep
+    image: /img/schipper_0.png
     link: https://schippergroep.nl
-  - link: http://www.vleeswienkeltje.nl/
+  - title: "'t Vleeswienkeltje"
     image: /img/vleeswinkeltje.png
-  - link: http://www.desnep.nl/
+    link: http://www.vleeswienkeltje.nl/
+  - title: Snep Bandenservice
     image: /img/snep_bandenservice.png
-  - link: http://www.bergamohavando.nl/
+    link: http://www.desnep.nl/
+  - title: Bergamo & Havando print en sign
     image: /img/logo_bergamo-havando.png
-  - link: http://www.elkorentals.nl/home/
+    link: http://www.bergamohavando.nl/
+  - title: Elko Rentals
     image: /img/elko_rentals.png
-  - link: http://www.jansenhoveniers.com/
+    link: http://www.elkorentals.nl/home/
+  - title: Jansen Hoveniers
     image: /img/jansen_hoveniers.png
-  - link: http://www.snijdersverfenbehang.nl/
+    link: http://www.jansenhoveniers.com/
+  - title: Snijders verf & behang
     image: /img/snijders.png
-  - image: /img/dynamico_fysiotherapie.png
+    link: http://www.snijdersverfenbehang.nl/
+  - title: Dynamico Fysiotherapie
+    image: /img/dynamico_fysiotherapie.png
     link: http://www.dynamico.nl/
-  - link: http://www.altijdlekkerslapen.nl/
+  - title: Slaacomfort Suykerbuyk
     image: /img/slaapcomfort_suykerbuyk.png
-  - link: http://www.rotako.nl/
+    link: http://www.altijdlekkerslapen.nl/
+  - title: Rotako
     image: /img/rotako.png
-  - link: http://www.installatiebedrijfverhees.nl/
+    link: http://www.rotako.nl/
+  - title: Installatiebedrijf Verhees
     image: /img/verhees-chaam.png
-  - link: http://www.jansenhoveniers.com/
-    image: /img/jansen_hoveniers.png
-  - link: http://www.gegeletters.nl/
+    link: http://www.installatiebedrijfverhees.nl/
+  - title: GéGé Letters
     image: /img/gege_letters.png
-  - link: http://www.binkgroep.eu/
+    link: http://www.gegeletters.nl/
+  - title: Bink Groep
     image: /img/big_groep.png
-  - image: /img/antmar.png
-  - link: http://www.martens-tweewielers.nl/
+    link: http://www.binkgroep.eu/
+  - title: Antmar B.V.
+    image: /img/antmar.png
+  - title: Martens Tweewielers
     image: /img/martens-tweewielers.png
-  - link: http://www.peetersvlees.nl/
+    link: http://www.martens-tweewielers.nl/
+  - title: Peeters Vlees
     image: /img/peeters.png
-  - link: http://www.kannekens-boekhoudkantoor.nl/
+    link: http://www.peetersvlees.nl/
+  - title: Kannekens Boekhoudkantoor
     image: /img/kannekens_boekhoudkantoor.png
+    link: http://www.kannekens-boekhoudkantoor.nl/
 ball:
-  - link: http://www.znrbv.nl/
+  - title: Zuid-Nederlandse ramenfabriek
     image: /img/visitekaart_znr.png
-  - link: http://www.stroopadvies.nl/
+    link: http://www.znrbv.nl/
+  - title: Stroop Advies
     image: /img/stroopadvies.png
-  - link: http://www.aannemersbedrijfrens.nl/
+    link: http://www.stroopadvies.nl/
+  - title: Aannemersbedrijf Rens
     image: /img/aannemersbedrijfrens.png
-  - image: /img/van_beeck_transport.png
-  - image: /img/doorisol.png
-  - link: https://www.barbequejochems.nl/home/
+    link: http://www.aannemersbedrijfrens.nl/
+  - title: Van Beeck Transport
+    image: /img/van_beeck_transport.png
+  - title: Doorisol kozijnen
+    image: /img/doorisol.png
+  - title: BBQ Jochems
     image: /img/bbq_jochems.jpg
-  - link: http://www.attentschijf.nl/index.html
+    link: https://www.barbequejochems.nl/home/
+  - title: Attent Bouman
     image: /img/attent_bouman2.png
-  - link: http://www.wapenvanschijf.nl/
+    link: http://www.attentschijf.nl/index.html
+  - title: Het Wapen van Schijf
     image: /img/hetwapenvanschijf.png
+    link: http://www.wapenvanschijf.nl/
 materials:
-  - link: http://www.denscherpenberg.nl/
+  - title: Speelboerderij den Scherpenberg
     image: /img/speelboerderij_den_scherpenberg.png
-  - link: http://www.gookar.nl/
+    link: http://www.denscherpenberg.nl/
+  - title: Gookar
     image: /img/gookar.png
-  - link: http://www.bartelsmontage.nl/
+    link: http://www.gookar.nl/
+  - title: Bartels Montage
     image: /img/bartels_montage.png
-  - link: http://www.cupre.nl/
+    link: http://www.bartelsmontage.nl/
+  - title: Fysiotherapi de Zuidsingel
     image: /img/fysiotherapie_dezuidsingel2.png
+    link: http://www.cupre.nl/
 website:
-  - link: http://admx.nl/
+  - title: ADMX
     image: /img/admx2.png
-  - link: http://www.znrbv.nl/
+    link: http://admx.nl/
+  - title: Zuid-Nederlandse ramenfabriek
     image: /img/visitekaart_znr.png
-  - link: http://www.nada-lingerie.nl/
+    link: http://www.znrbv.nl/
+  - title: Nada lingerie
     image: /img/nada_lingerie.png
-  - link: http://www.coop.nl/supermarkten/kruisland/coopcompact-schrauwen-/
+    link: http://www.nada-lingerie.nl/
+  - title: Coop compact Schrauwen
     image: /img/coop_compact_schrauwen.png
+    link: http://www.coop.nl/supermarkten/kruisland/coopcompact-schrauwen-/
 canteen:
-  - link: http://www.keesnouwselektro.nl/
+  - title: Kees Nouws Elektrotechniek
     image: /img/kees_nouws_elektrotechniek.png
-  - link: http://www.aannemersbedrijfrens.nl/
+    link: http://www.keesnouwselektro.nl/
+  - title: Aannemersbedrijf Rens
     image: /img/aannemersbedrijfrens.png
-  - link: http://www.elkorentals.nl/home/
+    link: http://www.aannemersbedrijfrens.nl/
+  - title: Elko Rentals
     image: /img/elko_rentals.png
-  - link: http://www.stroopadvies.nl/
+    link: http://www.elkorentals.nl/home/
+  - title: Stroop Advies
     image: /img/stroopadvies.png
-  - link: http://www.vancaulil.keurslager.nl/
+    link: http://www.stroopadvies.nl/
+  - title: Keurslager van Caulil
     image: /img/keurslager_van_caulil.png
-  - link: http://www.martens-tweewielers.nl/
+    link: http://www.vancaulil.keurslager.nl/
+  - title: Martens Tweewielers
     image: /img/martens-tweewielers.png
+    link: http://www.martens-tweewielers.nl/
   - image: /img/tamoil_schijf_0.png
-  - link: http://www.attentschijf.nl/index.html
+  - title: Attent Bouman
     image: /img/attent_bouman2.png
-  - link: http://www.znrbv.nl/
+    link: http://www.attentschijf.nl/index.html
+  - title: Zuid-Nederlandse ramenfabriek
     image: /img/visitekaart_znr.png
-  - link: http://www.wapenvanschijf.nl/
+    link: http://www.znrbv.nl/
+  - title: Het Wapen van Schijf
     image: /img/hetwapenvanschijf.png
-  - link: http://www.bouwtechnieken.eu/
+    link: http://www.wapenvanschijf.nl/
+  - title: Van Trijp Bouwtechnieken
     image: /img/vantrijp_bouwtechnieken.png
-  - link: http://www.ossenblokhovenier.nl/
+    link: http://www.bouwtechnieken.eu/
+  - title: Ossenblok Hovenier
     image: /img/ossenblokhovenier.png
-  - link: http://www.autobedrijfschijf.nl/
+    link: http://www.ossenblokhovenier.nl/
+  - title: Autobedrijf Schijf
     image: /img/autobedrijfschijf.png
-  - link: http://www.plantenverhuur-sweep.nl/
+    link: http://www.autobedrijfschijf.nl/
+  - title: Plantenverhuur Sweep
     image: /img/sweep.png
-  - link: http://graszodenvanzundert.nl/
+    link: http://www.plantenverhuur-sweep.nl/
+  - title: Van Zundert Graszoden
     image: /img/vanzundertgraszoden.png
-  - link: http://www.euronicsvdpoel.nl/
+    link: http://graszodenvanzundert.nl/
+  - title: Van der Poel Elektro
     image: /img/vdpoelelektro.png
-  - link: http://www.vleeswienkeltje.nl/
+    link: http://www.euronicsvdpoel.nl/
+  - title: "'t Vleeswienkeltje"
     image: /img/vleeswinkeltje.png
+    link: http://www.vleeswienkeltje.nl/
 ---
 ## Sponsor worden?
 Benieuwd naar de mogelijkheden om sponsor van VV Schijf te worden? Gebruik dan [dit contactformulier](#form) of neem dan contact op met:

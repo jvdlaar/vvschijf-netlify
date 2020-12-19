@@ -1,0 +1,18 @@
+<div class="bg-off-white pv4">
+	<div class="ph3 mw7 center">
+		<h3 class="f3 b lh-title mb3">Onze topsponsoren</h3>
+		{{ with .GetPage "sponsoring/_index.md" }}
+			<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
+				{{ range .Params.top }}
+					<div class="ph1-ns w-50-ns flex">
+						{{ if .link }}<a href="{{ .link }}" rel="noopener" target="_blank" title="{{ .title }}"><img src="{{ .image }}"></a>{{ else }}<img src="{{ .image }}" alt="{{ .title }}">{{ end }}
+					</div>
+				{{ end }}
+			</div>
+		{{ end }}
+
+		<div class="tc">
+			<a href="/sponsoring" class="btn raise">Bekijk al onze sponsoren</a>
+		</div>
+	</div>
+</div>

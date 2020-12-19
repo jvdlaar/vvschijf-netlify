@@ -1,13 +1,13 @@
 {{ define "main" }}
     {{ partial "header-images" (dict "title" .Title) }}
 
-    <div class="mw6 center ph3 pv4">
+    <div class="mw7 center ph3 pv4">
         {{ if .Date }}
             <div class="flex justify-between grey-3">
                 <p class="mid-gray lh-title mb2">{{ .Date.Format "02-01-2006" }}</p>
             </div>
         {{ end }}
-        <div class="cms mw6">
+        <div class="cms">
             <p><em>{{ .Description }}</em></p>
             {{ if .Params.image }}
                 <img src="{{ .Params.image }}" />

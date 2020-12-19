@@ -3,7 +3,7 @@
 {{ partial "header-images" (dict "title" .Title) }}
 
 <div class="ph3 bg-off-white">
-	<div class="center mw6 pv3">
+	<div class="center mw7 pv3">
 
 		{{ .Content }}
 
@@ -11,7 +11,7 @@
 		<div class="flex-ns flex-wrap mhn2-ns mb3">
 			{{ range .Params.top }}
 				<div class="ph2-ns mb4">
-					{{ if .link }}<a href="{{ .link }}" rel="noopener" target="_blank"><img src="{{ .image }}"></a>{{ else }}<img src="{{ .image }}">{{ end }}
+					{{ if .link }}<a title="{{ .title }}" href="{{ .link }}" rel="noopener" target="_blank"><img alt="{{ .title }}" src="{{ .image }}"></a>{{ else }}<img alt="{{ .title }}" src="{{ .image }}">{{ end }}
 				</div>
 			{{ end }}
 		</div>
@@ -20,7 +20,7 @@
 		<div class="flex-ns flex-wrap mhn2-ns mb3">
 			{{ range .Params.clothing }}
 				<div class="ph2-ns mb4">
-					{{ if .link }}<a href="{{ .link }}" rel="noopener" target="_blank"><img src="{{ .image }}"></a>{{ else }}<img src="{{ .image }}">{{ end }}
+					{{ if .link }}<a title="{{ .title }}" href="{{ .link }}" rel="noopener" target="_blank"><img alt="{{ .title }}" src="{{ .image }}"></a>{{ else }}<img alt="{{ .title }}" src="{{ .image }}">{{ end }}
 				</div>
 			{{ end }}
 		</div>
@@ -29,7 +29,7 @@
 		<div class="flex-ns flex-wrap mhn2-ns mb3">
 			{{ range .Params.boarding }}
 				<div class="ph2-ns mb4">
-					{{ if .link }}<a href="{{ .link }}" rel="noopener" target="_blank"><img src="{{ .image }}"></a>{{ else }}<img src="{{ .image }}">{{ end }}
+					{{ if .link }}<a title="{{ .title }}" href="{{ .link }}" rel="noopener" target="_blank"><img alt="{{ .title }}" src="{{ .image }}"></a>{{ else }}<img alt="{{ .title }}" src="{{ .image }}">{{ end }}
 				</div>
 			{{ end }}
 		</div>
@@ -38,7 +38,7 @@
 		<div class="flex-ns flex-wrap mhn2-ns mb3">
 			{{ range .Params.ball }}
 				<div class="ph2-ns mb4">
-					{{ if .link }}<a href="{{ .link }}" rel="noopener" target="_blank"><img src="{{ .image }}"></a>{{ else }}<img src="{{ .image }}">{{ end }}
+					{{ if .link }}<a title="{{ .title }}" href="{{ .link }}" rel="noopener" target="_blank"><img alt="{{ .title }}" src="{{ .image }}"></a>{{ else }}<img alt="{{ .title }}" src="{{ .image }}">{{ end }}
 				</div>
 			{{ end }}
 		</div>
@@ -47,7 +47,7 @@
 		<div class="flex-ns flex-wrap mhn2-ns mb3">
 			{{ range .Params.materials }}
 				<div class="ph2-ns mb4">
-					{{ if .link }}<a href="{{ .link }}" rel="noopener" target="_blank"><img src="{{ .image }}"></a>{{ else }}<img src="{{ .image }}">{{ end }}
+					{{ if .link }}<a title="{{ .title }}" href="{{ .link }}" rel="noopener" target="_blank"><img alt="{{ .title }}" src="{{ .image }}"></a>{{ else }}<img alt="{{ .title }}" src="{{ .image }}">{{ end }}
 				</div>
 			{{ end }}
 		</div>
@@ -56,7 +56,7 @@
 		<div class="flex-ns flex-wrap mhn2-ns mb3">
 			{{ range .Params.website }}
 				<div class="ph2-ns mb4">
-					{{ if .link }}<a href="{{ .link }}" rel="noopener" target="_blank"><img src="{{ .image }}"></a>{{ else }}<img src="{{ .image }}">{{ end }}
+					{{ if .link }}<a title="{{ .title }}" href="{{ .link }}" rel="noopener" target="_blank"><img alt="{{ .title }}" src="{{ .image }}"></a>{{ else }}<img alt="{{ .title }}" src="{{ .image }}">{{ end }}
 				</div>
 			{{ end }}
 		</div>
@@ -65,7 +65,7 @@
 		<div class="flex-ns flex-wrap mhn2-ns mb3">
 			{{ range .Params.canteen }}
 				<div class="ph2-ns mb4">
-					{{ if .link }}<a href="{{ .link }}" rel="noopener" target="_blank"><img src="{{ .image }}"></a>{{ else }}<img src="{{ .image }}">{{ end }}
+					{{ if .link }}<a title="{{ .title }}" href="{{ .link }}" rel="noopener" target="_blank"><img alt="{{ .title }}" src="{{ .image }}"></a>{{ else }}<img alt="{{ .title }}" src="{{ .image }}">{{ end }}
 				</div>
 			{{ end }}
 		</div>
