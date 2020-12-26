@@ -4,62 +4,27 @@ import format from "date-fns/format";
 export default class PostPreview extends React.Component {
   render() {
     const {entry, getAsset} = this.props;
-    let image = getAsset(entry.getIn(["data", "image"]));
+    const imageUrl = '/files/header_dames.jpg';
+    const title = entry.getIn(["data", "blurb", "heading"]);
 
-    // Bit of a nasty hack to make relative paths work as expected as a background image here
-    if (image && !image.fileObj) {
-        image = window.parent.location.protocol + "//" + window.parent.location.host + image;
+    let titleFormatted = '<div className="f4-ns f5 b di lh-title mb3 white mw6 pa1"></div>';
+    if (title) {
+      titleFormatted = '<h1 className="f4-ns f5 b di lh-title mb3 white mw6 bg-primary pa1">' + title + '</h1>';
     }
 
-    return <div>
-        <div className="bg-grey-1 pv4">
-          <div className="flex-l mhn1-l ph3 center mw7">
-            <h2 className="f2 b lh-title mb2 w-40-l">{entry.getIn(["data", "blurb", "heading"])}</h2>
-            <p className="w-60-l mb0">{entry.getIn(["data", "blurb", "text"])}</p>
-          </div>
+    const subtitle = entry.getIn(["data", "blurb", "text"]);
+    let subtitleFormatted = '';
+    if (subtitle) {
+      subtitleFormatted = '<p className="b f6 di lh-title mb3 white mw6 bg-primary pa1">' + subtitle + '</p>';
+    }
+
+    return <div className="pv4 pv5-l ph3 bg-center cover w-100 br1" style="background-image: url('{imageUrl}')">
+      <div className="mw7 right-1 ph3">
+        <div className="db mb3">
+          <div className="mw7 relative bg-fix-primary mb3">{titleFormatted}</div>
+          <div className="mw7 relative bg-fix-primary">{subtitleFormatted}</div>
         </div>
-
-        <div className="bg-off-white pv4">
-          <div className="ph3 mw7 center">
-            <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "intro", "heading"])}</h2>
-            <p className="mb4 mw6">{entry.getIn(["data", "intro", "text"])}</p>
-
-            <div className="flex-ns mhn2-ns mb3">
-              {(entry.getIn(["data", "products"]) || []).map((product, i) => <div className="ph2-ns w-50-ns" key={i}>
-                <img src={getAsset(product.get("image"))} alt="" className="center db mb3" style={{width: "240px"}}/>
-                <p>{product.get("text")}</p>
-              </div>)}
-            </div>
-
-            <div className="tc">
-              <a href="#" className="btn raise">See all products</a>
-            </div>
-          </div>
-        </div>
-
-        <div className="bg-grey-1 pv4">
-          <div className="ph3 mw7 center">
-
-            <div className="flex-l mhn2-l">
-              <div className="w-40-l ph2-l">
-                <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "values", "heading"])}</h2>
-
-                <p>{entry.getIn(["data", "values", "text"])}</p>
-              </div>
-
-              <div className="w-60-l ph2-l">
-                <img src="/img/home-about-section.jpg" alt="" className="mb3"/>
-              </div>
-            </div>
-
-            <div className="tc">
-              <a href="{{.buttonLink}}" className="btn raise">Read more</a>
-            </div>
-
-          </div>
-        </div>
-
-
+      </div>
     </div>
   }
 }
