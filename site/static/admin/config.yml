@@ -124,6 +124,18 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Titel, name: title, widget: string}
           - {label: Afbeelding, name: logo, widget: image}
           - {label: Body, name: body, widget: markdown}
+      - file: "site/content/banners/_index.md"
+        label: "Banners"
+        name: "banners"
+        fields:
+        - { label: Titel, name: title, widget: string }
+        - label: "Banners"
+          name: banners
+          widget: list
+          fields:
+          - { label: Titel, name: title, widget: string }
+          - { label: "Afbeelding", name: "image", widget: "image" }
+          - { label: "Link", name: "link", widget: "string", required: false }
       - file: "site/content/sponsoring/_index.md"
         label: "Sponsoring"
         name: "sponsoring"

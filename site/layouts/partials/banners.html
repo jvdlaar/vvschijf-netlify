@@ -1,0 +1,13 @@
+<div class="bg-off-white pv4">
+	<div class="ph3 mw7 center">
+		{{ with .GetPage "banners/_index.md" }}
+			<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
+				{{ range .Params.banners }}
+					<div class="ph1-ns w-33-ns flex banner">
+						{{ if .link }}<a href="{{ .link }}" rel="noopener" target="_blank" title="{{ .title }}"><img src="{{ .image }}"></a>{{ else }}<img src="{{ .image }}" alt="{{ .title }}">{{ end }}
+					</div>
+				{{ end }}
+			</div>
+		{{ end }}
+	</div>
+</div>

@@ -8,6 +8,8 @@
 
       {{ block "main" . }}{{ end }}
 
+      {{ partial "banners" . }}
+
       {{ block "footer" . }}{{ partial "footer" . }}{{end}}
     </div>
     {{ $script := .Site.Data.webpack.main }}
