@@ -16,17 +16,19 @@ export default class HomePreview extends React.Component {
     // const title = entry.getIn(["data", "blurb", "heading"]);
     // const subtitle = entry.getIn(["data", "blurb", "text"]);
 
-    return <div className="pv4 pv5-l ph3 bg-center cover w-100 br1" style="background-image: url('/files/header_dames.jpg')">
-      <div className="mw7 right-1 ph3">
-        <div className="db mb3">
-          <div className="mw7 relative bg-fix-primary mb3">
-            {/*<HomeTitle title={title} />*/}
-          </div>
-          <div className="mw7 relative bg-fix-primary">
-            {/*<HomeSubTitle subTitle={subtitle} />*/}
-          </div>
-        </div>
-      </div>
-    </div>;
+    // return <div className="pv4 pv5-l ph3 bg-center cover w-100 br1" style="background-image: url('/files/header_dames.jpg')">
+    //   <div className="mw7 right-1 ph3">
+    //     <div className="db mb3">
+    //       <div className="mw7 relative bg-fix-primary mb3">
+    //         {/*<HomeTitle title={title} />*/}
+    //       </div>
+    //       <div className="mw7 relative bg-fix-primary">
+    //         {/*<HomeSubTitle subTitle={subtitle} />*/}
+    //       </div>
+    //     </div>
+    //   </div>
+    // </div>;
+
+    return "HOME";
   }
 }
