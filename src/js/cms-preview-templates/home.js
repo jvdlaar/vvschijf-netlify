@@ -1,14 +1,14 @@
 import React from "react";
 
-const HomeTitle = ({data}) => data
-  ? <h1 className="f4-ns f5 b di lh-title mb3 white mw6 bg-primary pa1">{data}</h1>
-  : <div className="f4-ns f5 b di lh-title mb3 white mw6 pa1"></div>
-;
-
-const HomeSubTitle = ({data}) => data
-  ? <p className="b f6 di lh-title mb3 white mw6 bg-primary pa1">{data}</p>
-  : ''
-;
+// const HomeTitle = ({title}) => title
+//   ? <h1 className="f4-ns f5 b di lh-title mb3 white mw6 bg-primary pa1">{title}</h1>
+//   : <div className="f4-ns f5 b di lh-title mb3 white mw6 pa1"></div>
+// ;
+//
+// const HomeSubTitle = ({subTitle}) => subTitle
+//   ? <p className="b f6 di lh-title mb3 white mw6 bg-primary pa1">{subTitle}</p>
+//   : ''
+// ;
 
 export default class PostPreview extends React.Component {
   render() {
@@ -20,10 +20,10 @@ export default class PostPreview extends React.Component {
       <div className="mw7 right-1 ph3">
         <div className="db mb3">
           <div className="mw7 relative bg-fix-primary mb3">
-            <HomeTitle data={title} />
+            {/*<HomeTitle title={title} />*/}
           </div>
           <div className="mw7 relative bg-fix-primary">
-            <HomeSubTitle data={subtitle} />
+            {/*<HomeSubTitle subTitle={subtitle} />*/}
           </div>
         </div>
       </div>
