@@ -6,7 +6,14 @@ const PageDate = ({date}) => date
   : ''
 ;
 
-const PageImage = ({image}) => image ? <img src="{image}"/> : '';
+const PageHeadImage = ({image}) => image ? <img src="{image}"/> : '';
+
+const PageImage = ({image}) => <div className="ph2-ns w-50-ns"><img src="{image}" alt="" className="center db mb3" style="width: 240px"></div>;
+
+const PageImages = ({images}) => images && images.length > 0
+  ? <div className="flex-ns mhn2-ns mb3">{images.map(({image}) => <PageImage image={image} />)}</div>
+  : ""
+;
 
 export default class PostPreview extends React.Component {
   render() {
@@ -16,7 +23,7 @@ export default class PostPreview extends React.Component {
       <PageDate date={entry.getIn(["data", "date"])} />
       <div className="cms">
         <p><em>{ entry.getIn(["data", "description"]) }</em></p>
-        <PageImage image={entry.getIn(["data", "image"])} />
+        <PageHeadImage image={getAsset(entry.getIn(["data", "image"]))} />
 
         { widgetFor("body") }
       </div>

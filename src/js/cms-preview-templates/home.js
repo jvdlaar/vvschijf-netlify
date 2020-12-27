@@ -20,8 +20,10 @@ export default class HomePreview extends React.Component {
       <div className="mw7 right-1 ph3">
         <div className="db mb3">
           <div className="mw7 relative bg-fix-primary mb3">
+            {/*<HomeTitle title={title} />*/}
           </div>
           <div className="mw7 relative bg-fix-primary">
+            {/*<HomeSubTitle subTitle={subtitle} />*/}
           </div>
         </div>
       </div>
