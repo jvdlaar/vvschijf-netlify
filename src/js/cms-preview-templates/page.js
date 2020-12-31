@@ -8,7 +8,7 @@ const PageDate = ({date}) => date
 
 const PageHeadImage = ({image}) => image ? <img src="{image}" /> : '';
 
-const PageImage = ({image}) => <div className="ph2-ns w-50-ns"><img src="{image}" alt="" className="center db mb3" style="width: 240px"></div>;
+const PageImage = ({image}) => <div className="ph2-ns w-50-ns"><img src="{image}" alt="" className="center db mb3" style="width: 240px" /></div>;
 
 const PageImages = ({images}) => images && images.length > 0
   ? <div className="flex-ns mhn2-ns mb3">{images.map(({image}) => <PageImage image={image} />)}</div>
