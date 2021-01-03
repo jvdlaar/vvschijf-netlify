@@ -12,9 +12,9 @@ import React from "react";
 
 export default class HomePreview extends React.Component {
   render() {
-    // const {entry} = this.props;
-    // const title = entry.getIn(["data", "blurb", "heading"]);
-    // const subtitle = entry.getIn(["data", "blurb", "text"]);
+    const {entry} = this.props;
+    const title = entry.getIn(["data", "blurb", "heading"]);
+    const subtitle = entry.getIn(["data", "blurb", "text"]);
 
     return <div className="pv4 pv5-l ph3 bg-center cover w-100 br1 header-dames">
       <div className="mw7 right-1 ph3">
