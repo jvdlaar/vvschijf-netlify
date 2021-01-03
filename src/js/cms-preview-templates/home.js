@@ -1,14 +1,14 @@
 import React from "react";
 
-// const HomeTitle = ({title}) => title
-//   ? <h1 className="f4-ns f5 b di lh-title mb3 white mw6 bg-primary pa1">{title}</h1>
-//   : <div className="f4-ns f5 b di lh-title mb3 white mw6 pa1"></div>
-// ;
-//
-// const HomeSubTitle = ({subTitle}) => subTitle
-//   ? <p className="b f6 di lh-title mb3 white mw6 bg-primary pa1">{subTitle}</p>
-//   : ''
-// ;
+const HomeTitle = ({title}) => title
+  ? <h1 className="f4-ns f5 b di lh-title mb3 white mw6 bg-primary pa1">{title}</h1>
+  : <div className="f4-ns f5 b di lh-title mb3 white mw6 pa1"></div>
+;
+
+const HomeSubTitle = ({subTitle}) => subTitle
+  ? <p className="b f6 di lh-title mb3 white mw6 bg-primary pa1">{subTitle}</p>
+  : ''
+;
 
 export default class HomePreview extends React.Component {
   render() {
@@ -20,12 +20,10 @@ export default class HomePreview extends React.Component {
       <div className="mw7 right-1 ph3">
         <div className="db mb3">
           <div className="mw7 relative bg-fix-primary mb3">
-            {/*<HomeTitle title={title} />*/}
-            {title}
+            <HomeTitle title={title} />
           </div>
           <div className="mw7 relative bg-fix-primary">
-            {/*<HomeSubTitle subTitle={subtitle} />*/}
-            {subtitle}
+            <HomeSubTitle subTitle={subtitle} />
           </div>
         </div>
       </div>
