@@ -16,6 +16,6 @@ export default class HomePreview extends React.Component {
     // const title = entry.getIn(["data", "blurb", "heading"]);
     // const subtitle = entry.getIn(["data", "blurb", "text"]);
 
-    return <div className="pv4 pv5-l ph3 bg-center cover w-100 br1" style="background-image: url('/files/header_dames.jpg')"></div>;
+    return <div class="pv4 pv5-l ph3 bg-center cover w-100 br1"></div>;
   }
 }
