@@ -22,7 +22,7 @@ const PageHeadImage = ({image}) => (image ? <img src={image} /> : "");
 
 const PageImages = ({images, getAsset}) => (images && images.length > 0
   //<PageImage image={getAsset(image)} />
-  ? <div class="flex-ns mhn2-ns mb3">{images.map(({image}) => <b>BLAAA</b>)}</div>
+  ? <div class="flex-ns mhn2-ns mb3">{images.map(({image}) => <b>{image}</b>)}</div>
   : "")
 ;
 
