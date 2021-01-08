@@ -41,7 +41,7 @@ export default class PostPreview extends React.Component {
           <PageHeadImage image={image ? getAsset(image) : null} />
 
           { widgetFor("body") }
-          <PageImages images={entry.getIn(["data", "images"])} getAsset={getAsset} />
+          <PageImages images={entry.getIn(["data", "images"]).toJS()} getAsset={getAsset} />
         </div>
       </div>
     </div>
