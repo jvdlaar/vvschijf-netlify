@@ -22,8 +22,8 @@ const PageHeadImage = ({image}) => image ? <img src={image} /> : '';
 
 const PageImage = ({image}) => <div className="ph2-ns w-50-ns"><img src={image} alt="" className="center db mb3" style="width: 240px" /></div>;
 
-const PageImages = ({images}) => images && images.length > 0
-  ? <div className="flex-ns mhn2-ns mb3">{images.map(({image}) => <PageImage image={image} />)}</div>
+const PageImages = ({images, getAsset}) => images && images.length > 0
+  ? <div className="flex-ns mhn2-ns mb3">{images.map(({image}) => <PageImage image={getAsset(image)} />)}</div>
   : ""
 ;
 
@@ -41,11 +41,10 @@ export default class PostPreview extends React.Component {
           <PageHeadImage image={image ? getAsset(image) : null} />
 
           { widgetFor("body") }
+          <PageImages images={entry.getIn(["data", "images"])} getAsset={getAsset} />
         </div>
       </div>
     </div>
     ;
-
-    // images
   }
 }

@@ -10,6 +10,7 @@ import styles from "!to-string-loader!css-loader!postcss-loader!sass-loader!../c
 import HomePreview from "./cms-preview-templates/home";
 import PagePreview from "./cms-preview-templates/page";
 import ContactPreview from "./cms-preview-templates/contact";
+import BannersPreview from "./cms-preview-templates/banners";
 
 CMS.registerPreviewStyle(styles, { raw: true });
 CMS.registerPreviewTemplate("home", HomePreview);
@@ -23,6 +24,7 @@ CMS.registerPreviewTemplate("afgelastingen", PagePreview);
 CMS.registerPreviewTemplate("routebeschrijving", PagePreview);
 CMS.registerPreviewTemplate("oud-papier", PagePreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
+CMS.registerPreviewTemplate("banners", BannersPreview);
 // sponsoring
 // banners
 CMS.init();
