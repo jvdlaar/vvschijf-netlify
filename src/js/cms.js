@@ -14,6 +14,9 @@ import ContactPreview from "./cms-preview-templates/contact";
 CMS.registerPreviewStyle(styles, { raw: true });
 CMS.registerPreviewTemplate("home", HomePreview);
 CMS.registerPreviewTemplate("nieuws", PagePreview);
+CMS.registerPreviewTemplate("teams", PagePreview);
 CMS.registerPreviewTemplate("pages", PagePreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
+// sponsoring
+// banners
 CMS.init();
