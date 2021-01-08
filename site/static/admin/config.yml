@@ -132,6 +132,8 @@ collections: # A list of collections the CMS should be able to edit
         - label: "Banners"
           name: banners
           widget: list
+          editor:
+              preview: false
           fields:
           - { label: Titel, name: title, widget: string }
           - { label: "Afbeelding", name: "image", widget: "image" }
