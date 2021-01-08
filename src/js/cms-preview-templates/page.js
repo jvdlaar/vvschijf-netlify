@@ -32,14 +32,16 @@ export default class PostPreview extends React.Component {
     const {entry, widgetFor, getAsset} = this.props;
     const image = entry.getIn(["data", "image"]);
 
-    return <HeadTitle title={entry.getIn(["data", "title"])} />
-    <div className="mw7 center ph3 pv4">
-      <PageDate date={entry.getIn(["data", "date"])} />
-      <div className="cms">
-        <p><em>{ entry.getIn(["data", "description"]) }</em></p>
-        <PageHeadImage image={image ? getAsset(image) : null} />
+    return <div>
+      <HeadTitle title={entry.getIn(["data", "title"])} />
+      <div className="mw7 center ph3 pv4">
+        <PageDate date={entry.getIn(["data", "date"])} />
+        <div className="cms">
+          <p><em>{ entry.getIn(["data", "description"]) }</em></p>
+          <PageHeadImage image={image ? getAsset(image) : null} />
 
-        { widgetFor("body") }
+          { widgetFor("body") }
+        </div>
       </div>
     </div>
     ;
