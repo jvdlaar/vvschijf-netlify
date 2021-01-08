@@ -15,8 +15,13 @@ CMS.registerPreviewStyle(styles, { raw: true });
 CMS.registerPreviewTemplate("home", HomePreview);
 CMS.registerPreviewTemplate("nieuws", PagePreview);
 CMS.registerPreviewTemplate("teams", PagePreview);
-CMS.registerPreviewTemplate("pages", PagePreview);
-CMS.registerPreviewTemplate("site/content", PagePreview);
+CMS.registerPreviewTemplate("clubinfo", PagePreview);
+CMS.registerPreviewTemplate("lidmaatschap", PagePreview);
+CMS.registerPreviewTemplate("privacy", PagePreview);
+CMS.registerPreviewTemplate("supportersvereniging", PagePreview);
+CMS.registerPreviewTemplate("afgelastingen", PagePreview);
+CMS.registerPreviewTemplate("routebeschrijving", PagePreview);
+CMS.registerPreviewTemplate("oud-papier", PagePreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
 // sponsoring
 // banners
