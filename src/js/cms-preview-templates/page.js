@@ -20,12 +20,12 @@ const PageDate = ({date}) => (date
 
 const PageHeadImage = ({image}) => (image ? <img src={image} /> : "");
 
-const PageImage = ({image}) => <div class="ph2-ns w-50-ns"><img src={image} alt="" class="center db mb3" style="width: 240px" /></div>;
-
 const PageImages = ({images, getAsset}) => (images && images.length > 0
   ? <div class="flex-ns mhn2-ns mb3">{images.map(({image}) => <PageImage image={getAsset(image)} />)}</div>
   : "")
 ;
+
+const PageImage = ({image}) => <div class="ph2-ns w-50-ns"><img src={image} alt="" class="center db mb3" style="width: 240px" /></div>;
 
 export default class PostPreview extends React.Component {
   render() {

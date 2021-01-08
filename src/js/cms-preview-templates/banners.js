@@ -10,10 +10,12 @@ const Banners = ({banners, getAsset}) => banners.map(({link, title, image}) => <
 export default class ContactPreview extends React.Component {
   render() {
     const {entry, getAsset} = this.props;
+    const banners = entry.getIn("data", "banners");
+
     return <div class="bg-off-white pv4">
       <div class="ph3 mw7 center">
         <div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
-          <Banners banners={entry.getIn("data", "banners").toJS()} getAsset={getAsset} />
+          <Banners banners={banners ? banners.toJS() : []} getAsset={getAsset} />
         </div>
       </div>
     </div>;
