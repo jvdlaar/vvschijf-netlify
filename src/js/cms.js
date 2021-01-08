@@ -15,7 +15,8 @@ CMS.registerPreviewStyle(styles, { raw: true });
 CMS.registerPreviewTemplate("home", HomePreview);
 CMS.registerPreviewTemplate("nieuws", PagePreview);
 CMS.registerPreviewTemplate("teams", PagePreview);
-CMS.registerPreviewTemplate("general", PagePreview);
+CMS.registerPreviewTemplate("pages", PagePreview);
+CMS.registerPreviewTemplate("site/content", PagePreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
 // sponsoring
 // banners
