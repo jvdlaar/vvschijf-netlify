@@ -23,6 +23,7 @@ export default class PostPreview extends React.Component {
       <PageDate date={entry.getIn(["data", "date"])} />
       <div className="cms">
         <p><em>{ entry.getIn(["data", "description"]) }</em></p>
+        {entry.getIn(["data", "image"])}
         <PageHeadImage image={getAsset(entry.getIn(["data", "image"]))} />
 
         { widgetFor("body") }
