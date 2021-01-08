@@ -15,7 +15,7 @@ export default class ContactPreview extends React.Component {
     return <div class="bg-off-white pv4">
       <div class="ph3 mw7 center">
         <div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
-          <Banners banners={banners ? banners.toJS() : []} getAsset={getAsset} />
+          <Banners banners={banners ? banners : []} getAsset={getAsset} />
         </div>
       </div>
     </div>;
