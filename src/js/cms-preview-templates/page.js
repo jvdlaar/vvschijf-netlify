@@ -2,7 +2,7 @@ import React from "react";
 import format from "date-fns/format";
 
 const PageDate = ({date}) => date
-  ? <div className="flex justify-between grey-3"><p className="mid-gray lh-title mb2">{ format(date, "dddd-MM-YYYY") }</p></div>
+  ? <div className="flex justify-between grey-3"><p className="mid-gray lh-title mb2">{ format(date, "DD-MM-YYYY") }</p></div>
   : ''
 ;
 
@@ -18,13 +18,13 @@ const PageImages = ({images}) => images && images.length > 0
 export default class PostPreview extends React.Component {
   render() {
     const {entry, widgetFor, getAsset} = this.props;
+    const image = entry.getIn(["data", "image"]);
 
     return <div className="mw7 center ph3 pv4">
       <PageDate date={entry.getIn(["data", "date"])} />
       <div className="cms">
         <p><em>{ entry.getIn(["data", "description"]) }</em></p>
-        {entry.getIn(["data", "image"])}
-        <PageHeadImage image={getAsset(entry.getIn(["data", "image"]))} />
+        <PageHeadImage image={image ? getAsset(image) : null} />
 
         { widgetFor("body") }
       </div>
