@@ -2,15 +2,15 @@ import React from "react";
 import {markdownToHtml} from "netlify-cms-widget-markdown/dist/esm/serializers";
 
 const HeadTitle = ({title}) => <div className="pv4 pv5-l ph3 bg-center cover w-100 br1 header-dames">
-    <div className="mw7 right-1 ph3">
-      <div className="db mb3">
-        <div className="mw7 relative bg-fix-primary mb3">
-          <h1 className="f4-ns f5 b di lh-title mb3 white mw6 bg-primary pa1">{title}</h1>
-        </div>
-        <div className="mw7 relative bg-fix-primary"></div>
+  <div className="mw7 right-1 ph3">
+    <div className="db mb3">
+      <div className="mw7 relative bg-fix-primary mb3">
+        <h1 className="f4-ns f5 b di lh-title mb3 white mw6 bg-primary pa1">{title}</h1>
       </div>
+      <div className="mw7 relative bg-fix-primary"></div>
     </div>
   </div>
+</div>
 ;
 
 const ContactEntry = ({heading, text, telephone, email}) =>
@@ -27,11 +27,11 @@ const ContactEntry = ({heading, text, telephone, email}) =>
     </ul>
   </div>;
 
-const ContactEntries = ({data}) => data && data.length > 0
-    ? <div className="flex-ns flex-wrap mhn2-ns mb3">
-      {data.map(({heading, text, telephone, email}) => <ContactEntry heading={heading} text={text} telephone={telephone} email={email} />)}
-    </div>
-    : "";
+const ContactEntries = ({data}) => (data && data.length > 0
+  ? <div className="flex-ns flex-wrap mhn2-ns mb3">
+    {data.map(({heading, text, telephone, email}) => <ContactEntry heading={heading} text={text} telephone={telephone} email={email} />)}
+  </div>
+  : "");
 
 export default class ContactPreview extends React.Component {
   render() {
