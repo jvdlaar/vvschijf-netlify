@@ -7,7 +7,7 @@ const Banner = ({link, title, image}) =>
 
 const Banners = ({banners, getAsset}) => banners.map(({link, title, image}) => <Banner link={link} title={title} image={getAsset(image)} />);
 
-export default class ContactPreview extends React.Component {
+export default class BannersPreview extends React.Component {
   render() {
     const {entry, getAsset} = this.props;
     const banners = entry.getIn("data", "banners");
