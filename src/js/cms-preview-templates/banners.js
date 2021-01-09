@@ -5,18 +5,15 @@ const Banner = ({link, title, image}) =>
     : <div class="ph1-ns w-33-ns flex banner"><img src={image} alt={title} /></div>)
 ;
 
-const Banners = ({banners, getAsset}) => banners.map(({link, title, image}) => <Banner link={link} title={title} image={getAsset(image)} />);
-
 export default class BannersPreview extends React.Component {
   render() {
-    const {entry, getAsset} = this.props;
-    const banners = entry.getIn("data", "banners");
+    const {widgetsFor, getAsset} = this.props;
+    const banners = widgetsFor("banners").map(({link, title, image}) => <Banner link={link} title={title} image={getAsset(image)} />);
 
     return <div class="bg-off-white pv4">
       <div class="ph3 mw7 center">
         <div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
           {banners}
-          {/*<Banners banners={banners ? banners : []} getAsset={getAsset} />*/}
         </div>
       </div>
     </div>;
