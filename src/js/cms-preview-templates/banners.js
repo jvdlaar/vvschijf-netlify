@@ -7,7 +7,7 @@ const Banner = ({link, title, image}) =>
 
 export default class BannersPreview extends React.Component {
   render() {
-    const {entity: entry, widgetsFor, getAsset} = this.props;
+    const {entry, widgetsFor, getAsset} = this.props;
     console.log(widgetsFor("banners"));
     console.log(entry.getIn(["data"]));
     console.log(entry.getIn(["data", "banners"]));
