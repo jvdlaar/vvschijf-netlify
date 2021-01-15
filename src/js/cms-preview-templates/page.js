@@ -26,10 +26,8 @@ export default class PostPreview extends React.Component {
   render() {
     const {entry, widgetFor, getAsset, widgetsFor} = this.props;
     const image = entry.getIn(["data", "image"]);
-    let images = widgetsFor("images").map((image) => <PageImage image={image.getIn(["data", "image"])} />);
-    console.log(images);
-//     images = images ? <div class="flex-ns mhn2-ns mb3">{images}</div> : "";
-// console.log(images);
+    const images = widgetsFor("images").map((image) => <PageImage image={getAsset(image.getIn(["data", "image"]))} />);
+
     return <div>
       <HeadTitle title={entry.getIn(["data", "title"])} />
       <div class="mw7 center ph3 pv4">
@@ -39,7 +37,8 @@ export default class PostPreview extends React.Component {
           <PageHeadImage image={image ? getAsset(image) : null} />
 
           {widgetFor("body")}
-          {images}
+
+          <div className="flex-ns mhn2-ns mb3">{images}</div>
         </div>
       </div>
     </div>
