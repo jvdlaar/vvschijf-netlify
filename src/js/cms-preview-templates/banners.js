@@ -8,7 +8,7 @@ const Banner = ({link, title, image}) =>
 export default class BannersPreview extends React.Component {
   render() {
     const {widgetsFor, getAsset} = this.props;
-    widgetsFor("banners").map((banner) => console.log(banner.getIn("link")));
+    widgetsFor("banners").map((banner) => console.log(banner.getIn(["data", "link"])));
     const banners = widgetsFor("banners").map(({link, title, image}) => <Banner link={link} title={title} image={getAsset(image)} />);
 
     return <div class="bg-off-white pv4">
