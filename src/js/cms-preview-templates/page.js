@@ -19,13 +19,13 @@ const PageDate = ({date}) => (date
 ;
 
 const PageHeadImage = ({image}) => (image ? <img src={image} /> : "");
-// const PageImage = ({image}) => <div class="ph2-ns w-50-ns"><img src={image} alt="" class="center db mb3" style="width: 240px" /></div>;
+const PageImage = ({image}) => <div class="ph2-ns w-50-ns"><img src={image} class="center db mb3" style="width: 240px" /></div>;
 
 export default class PostPreview extends React.Component {
   render() {
     const {entry, widgetFor, getAsset, widgetsFor} = this.props;
     const image = entry.getIn(["data", "image"]);
-    const images = entry.getIn(["data", "images"]) ? widgetsFor("images").map((image) => <PageHeadImage image={getAsset(image.getIn(["data", "image"]))} />) : "";
+    const images = entry.getIn(["data", "images"]) ? widgetsFor("images").map((image) => <PageImage image={getAsset(image.getIn(["data", "image"]))} />) : "";
 
     return <div>
       <HeadTitle title={entry.getIn(["data", "title"])} />
