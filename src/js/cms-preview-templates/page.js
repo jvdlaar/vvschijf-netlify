@@ -25,7 +25,7 @@ export default class PostPreview extends React.Component {
   render() {
     const {entry, widgetFor, getAsset, widgetsFor} = this.props;
     const image = entry.getIn(["data", "image"]);
-    const images = widgetsFor("images").map((image) => <PageImage image={getAsset(image.getIn(["data", "image"]))} />);
+    // const images = widgetsFor("images").map((image) => <PageImage image={getAsset(image.getIn(["data", "image"]))} />);
 
     return <div>
       <HeadTitle title={entry.getIn(["data", "title"])} />
