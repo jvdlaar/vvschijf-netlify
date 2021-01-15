@@ -19,7 +19,6 @@ const PageDate = ({date}) => (date
 ;
 
 const PageHeadImage = ({image}) => (image ? <img src={image} /> : "");
-
 const PageImage = ({image}) => <div class="ph2-ns w-50-ns"><img src={image} alt="" class="center db mb3" style="width: 240px" /></div>;
 
 export default class PostPreview extends React.Component {
@@ -38,7 +37,7 @@ export default class PostPreview extends React.Component {
 
           {widgetFor("body")}
 
-          <div className="flex-ns mhn2-ns mb3">{images}</div>
+          <div class="flex-ns mhn2-ns mb3">{images}</div>
         </div>
       </div>
     </div>

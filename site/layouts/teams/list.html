@@ -4,7 +4,7 @@
 
 <div class="mw7 center ph3 pv4">
     <div class="flex-ns flex-wrap mhn2-ns mb3">
-        <div class="ph2-ns w-50-ns">
+        <div class="ph2-ns w-33-ns">
             <h2>Heren</h2>
             <ul class="circle ph3 mb2">
                 {{ range where .Pages.ByTitle "Params.category" "heren" }}
@@ -22,7 +22,7 @@
                 {{ end }}
             </ul>
         </div>
-        <div class="ph2-ns w-50-ns">
+        <div class="ph2-ns w-33-ns">
             <h2>Junioren</h2>
             <ul class="circle ph3">
                 {{ range where .Pages.ByTitle "Params.category" "junior" }}
@@ -31,6 +31,9 @@
                     </li>
                 {{ end }}
             </ul>
+        </div>
+        <div class="ph2-ns w-33-ns">
+            <img style="max-height: 500px;" src="{{ .Params.image }}" />
         </div>
     </div>
 </div>

@@ -3,7 +3,7 @@
 		{{ with .GetPage "banners/_index.md" }}
 			<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
 				{{ range .Params.banners }}
-					<div class="ph1-ns w-33-ns flex banner">
+					<div class="ph1-ns w-33-ns flex banner tc">
 						{{ if .link }}<a href="{{ .link }}" rel="noopener" target="_blank" title="{{ .title }}"><img src="{{ .image }}"></a>{{ else }}<img src="{{ .image }}" alt="{{ .title }}">{{ end }}
 					</div>
 				{{ end }}
