@@ -1,8 +1,8 @@
 import React from "react";
 
 const Banner = ({link, title, image}) =>
-  (link ? <div class="ph1-ns w-33-ns flex banner"><a href={link} rel="noopener" target="_blank" title={title}><img src={image} alt={title} /></a></div>
-    : <div class="ph1-ns w-33-ns flex banner"><img src={image} alt={title} /></div>)
+  (link ? <div class="ph1-ns w-33-ns flex"><a href={link} rel="noopener" target="_blank" title={title}><img src={image} alt={title} /></a></div>
+    : <div class="ph1-ns w-33-ns flex"><img src={image} alt={title} /></div>)
 ;
 
 export default class BannersPreview extends React.Component {
