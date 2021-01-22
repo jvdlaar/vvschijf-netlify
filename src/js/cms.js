@@ -27,6 +27,5 @@ CMS.registerPreviewTemplate("oud-papier", PagePreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
 CMS.registerPreviewTemplate("banners", BannersPreview);
 CMS.registerPreviewTemplate("sponsoring", SponsoringPreview);
-// sponsoring
-// banners
+
 CMS.init();

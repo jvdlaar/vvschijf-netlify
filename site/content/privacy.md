@@ -51,4 +51,4 @@ verwijderen.
 
 Evelien Hack\
 Secretaris RKVV Schijf\
-avg@vvschijf.nl
+[avg@vvschijf.nl](mailto:avg@vvschijf.nl)
