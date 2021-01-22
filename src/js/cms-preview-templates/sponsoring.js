@@ -11,7 +11,7 @@ const HeadTitle = ({title}) => <div class="pv4 pv5-l ph3 bg-center cover w-100 b
     </div>
   </div>
 ;
-  
+
 const Sponsor = ({link, title, image}) =>
   (link ? <div class="ph2-ns mb4"><a href={link} rel="noopener" target="_blank" title={title}><img src={image} alt={title} /></a></div>
     : <div class="ph2-ns mb4"><img src={image} alt={title} /></div>)
