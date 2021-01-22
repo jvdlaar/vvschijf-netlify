@@ -51,7 +51,7 @@ collections: # A list of collections the CMS should be able to edit
             widget: object
             fields:
               - {label: "Kop", name: "heading", widget: string}
-              - {label: "Tekst", name: "text", widget: "text"}
+              - {label: "Tekst", name: "text", widget: "text", required: false}
       - file: "site/content/clubinfo.md"
         label: "Clubinfo"
         name: "clubinfo"
