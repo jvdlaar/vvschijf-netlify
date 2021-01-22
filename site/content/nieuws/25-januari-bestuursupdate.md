@@ -1,7 +1,7 @@
 ---
 title: "25 januari: Bestuursupdate"
 visible: true
-date: 2021-01-25T13:26:29.864Z
+date: 2021-01-22T14:01:32.793Z
 description: Beste leden en vrienden van VV Schijf, op 25 januari om 20:00 is er
   een digitale bestuursupdate. We blikken dan kort terug op vorig jaar en kijken
   vooruit naar wat er nog gaat komen.
