@@ -20,8 +20,6 @@ const PageDate = ({date}) => (date
 
 const PageHeadImage = ({image}) => (image ? <img src={image} /> : "");
 const PageImage = ({image}) => <div class="ph2-ns w-50-ns"><img src={image} class="center db mb3" width="240" /></div>;
-//240px
-
 
 export default class PostPreview extends React.Component {
   render() {

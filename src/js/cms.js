@@ -11,6 +11,7 @@ import HomePreview from "./cms-preview-templates/home";
 import PagePreview from "./cms-preview-templates/page";
 import ContactPreview from "./cms-preview-templates/contact";
 import BannersPreview from "./cms-preview-templates/banners";
+import SponsoringPreview from "./cms-preview-templates/sponsoring";
 
 CMS.registerPreviewStyle(styles, { raw: true });
 CMS.registerPreviewTemplate("home", HomePreview);
@@ -25,6 +26,7 @@ CMS.registerPreviewTemplate("routebeschrijving", PagePreview);
 CMS.registerPreviewTemplate("oud-papier", PagePreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
 CMS.registerPreviewTemplate("banners", BannersPreview);
+CMS.registerPreviewTemplate("sponsoring", SponsoringPreview);
 // sponsoring
 // banners
 CMS.init();
