@@ -1,5 +1,17 @@
 import React from "react";
 
+const HeadTitle = ({title}) => <div class="pv4 pv5-l ph3 bg-center cover w-100 br1 header-dames">
+    <div class="mw7 right-1 ph3">
+      <div class="db mb3">
+        <div class="mw7 relative bg-fix-primary mb3">
+          <h1 class="f4-ns f5 b di lh-title mb3 white mw6 bg-primary pa1">{title}</h1>
+        </div>
+        <div class="mw7 relative bg-fix-primary"></div>
+      </div>
+    </div>
+  </div>
+;
+  
 const Sponsor = ({link, title, image}) =>
   (link ? <div class="ph2-ns mb4"><a href={link} rel="noopener" target="_blank" title={title}><img src={image} alt={title} /></a></div>
     : <div class="ph2-ns mb4"><img src={image} alt={title} /></div>)
