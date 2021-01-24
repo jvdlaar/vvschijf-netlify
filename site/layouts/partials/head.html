@@ -27,7 +27,7 @@
 	<meta name="theme-color" content="#fff">
 
 	<!-- Open Graph -->
-	<meta property="og:title" content="vv Schijf">
+	<meta property="og:title" content="{{ .Title }} | {{ $.Site.Title }}">
 	<meta property="og:url" content="/">
-	<meta property="og:image" content="/files/logo.png">
+	<meta property="og:image" content="{{ if .Params.image }}{{ .Params.image }}{{ else }}/files/logo.png{{ end }}">
 </head>
