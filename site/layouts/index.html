@@ -13,13 +13,10 @@
         </div>
         <div class="ph2-ns w-50-ns tc">
             <script type="text/javascript" defer>
-                function loadScript(src) {
-                    let script = document.createElement('script');
-                    script.src = src;
-                    document.body.append(script);
-                }
-                loadScript('https://knvbwidget.sportlink.com/widget_js.php?soort=vereniging-staand&clubcode=BBHY62M&breedte=215');
-                showWidget();
+                let script = document.createElement('script');
+                script.src = 'https://knvbwidget.sportlink.com/widget_js.php?soort=vereniging-staand&clubcode=BBHY62M&breedte=215';
+                script.onload = () => showWidget();
+                document.body.append(script);
             </script>
         </div>
     </div>
