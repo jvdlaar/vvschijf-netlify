@@ -1,11 +1,11 @@
 <head>
 
-  <title>{{ .Title }} | {{ $.Site.Title }}</title>
+	<title>{{ .Title }} | {{ $.Site.Title }}</title>
 
-  {{ $stylesheet := .Site.Data.webpack.main }}
-  {{ with $stylesheet.css }}
-    <link href="{{ relURL . }}" rel="stylesheet">
-  {{ end }}
+	{{ $stylesheet := .Site.Data.webpack.main }}
+	{{ with $stylesheet.css }}
+		<link href="{{ relURL . }}" rel="stylesheet">
+	{{ end }}
 
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -29,4 +29,8 @@
 	<!-- Open Graph -->
 	<meta property="og:title" content="{{ .Title }} | {{ $.Site.Title }}">
 	<meta property="og:image" content="https://vvschijf.nl{{ if .Params.image }}{{ .Params.image }}{{ else }}/files/logo.png{{ end }}">
+
+	{{ if .IsHome }}
+		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+	{{ end }}
 </head>
