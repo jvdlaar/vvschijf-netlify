@@ -18,21 +18,4 @@ Irma Schrauwen
 
 ## Selectie
 
-Vera Suijkerbuijk\
-Loes Godrie\
-Lotte Godrie\
-Mieke Godrie\
-Evelien Hack\
-Rulke Arink-Jaspers\
-Nienke de Jong\
-Linda Konings\
-Renske van de Sande\
-Karen Naalden\
-Inge van Overveld\
-Sanne van Zundert\
-Joyce Vegers\
-José Dekkers\
-Ellis Rommers\
-Lotte Matthijssen\
-Liselotte Vanlaerhoven\
-Symke Huybregts
+\--
