@@ -2,6 +2,32 @@
 title: Oud papier
 download: /img/ophalen-oud-papier.xls
 ---
+## Ophaaldagen 2021:
+
+23 januari
+
+27 februari
+
+27 maart
+
+17 april
+
+29 mei
+
+26 juni
+
+24 juli
+
+28 augustus
+
+25 september
+
+23 oktober
+
+27 november
+
+18 december 
+
 ## Afspraken ophalen oud-papier
 
 Op toerbeurt worden alle senioren ingedeeld voor de maandelijkse inzameling van oud-papier. Dit doen we in samenwerking met wijk “De Plas” en levert onze vereniging jaarlijks een mooie aanvulling op voor de kas.
