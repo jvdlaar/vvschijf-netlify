@@ -1,5 +1,6 @@
 ---
 title: Lidmaatschap
+download: /img/aanmeldingsformulier-leden-rkvv-schijf.xls
 ---
 
 ## Lidmaatschap
