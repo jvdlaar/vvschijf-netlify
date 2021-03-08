@@ -33,17 +33,17 @@ v.l.n.r. Rob Adriaensen, Jan Naalden, Sven Arink, Roy van Zundert, Paul Suijkerb
 
 **Leden Hoofdbestuur**
 
-| Functie               | Naam                 | E-mailadres                       | Telefoon                         |
-| --------------------- | -------------------- | --------------------------------- | -------------------------------- |
-| Voorzitter            | vacant               | \-                                | \-                               |
-| Secretaris            | Evelien Hack         | secretaris@vvschijf.nl            | **[0623885767](tel:0612010556)** |
-| Penningmeester        | Sven Arink           | svenarink@gmail.com               | [0622615633](tel:0622615633)     |
-| Wedstrijdsecretariaat | Erwin Damen          | wedstrijdsecretariaat@vvschijf.nl | \-                               |
-| Sponsoring            | Rob Adriaensen       | sponsoring@vvschijf.nl            | [0683968415](tel:0683968415)     |
-| Activiteiten          | Fleur Suijkerbuijk   | activiteiten@vvschijf.nl          | \-                               |
-| Jeugdzaken            | Hans van Merrienboer | \-                                | \-                               |
-| Accommodatie          | Jan Naalden          | \-                                | \-                               |
-| Kantine beheer        | Paul Suijkerbuijk    | p.suijkerbuijk14@gmail.com        | [0655688931](tel:0655688931)     |
+| Functie               | Naam                 | E-mailadres                       | Telefoon                     |
+| --------------------- | -------------------- | --------------------------------- | ---------------------------- |
+| Voorzitter            | vacant               | \-                                | \-                           |
+| Secretaris            | Evelien Hack         | secretaris@vvschijf.nl            | [0623885767](tel:0612010556) |
+| Penningmeester        | Sven Arink           | svenarink@gmail.com               | [0622615633](tel:0622615633) |
+| Wedstrijdsecretariaat | Erwin Damen          | wedstrijdsecretariaat@vvschijf.nl | \-                           |
+| Sponsoring            | Rob Adriaensen       | sponsoring@vvschijf.nl            | [0683968415](tel:0683968415) |
+| Activiteiten          | Fleur Suijkerbuijk   | activiteiten@vvschijf.nl          | \-                           |
+| Jeugdzaken            | Hans van Merrienboer | \-                                | \-                           |
+| Accommodatie          | Jan Naalden          | \-                                | \-                           |
+| Kantine beheer        | Paul Suijkerbuijk    | p.suijkerbuijk14@gmail.com        | [0655688931](tel:0655688931) |
 
 ### Jeugdbestuur
 
