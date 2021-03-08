@@ -1,5 +1,6 @@
 ---
 title: Clubinfo
+download: /img/aanmeldingsformulier-leden-rkvv-schijf.xls
 ---
 ***Het correspondentieadres, bezoekadres en de e-mailadressen waarop u ons kunt bereiken.***
 
