@@ -1,7 +1,7 @@
 ---
 title: Protocol vv Schijf
 visible: true
-date: 2021-06-08T15:04:10.000Z
+date: 2021-06-08T18:49:37.169Z
 description: Update nav versoepelingen vanaf 5 juni 2021
 images:
   - image: /img/algemeen.protocol.vvschijf.jpg
