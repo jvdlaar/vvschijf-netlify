@@ -14,7 +14,7 @@ Voordat je lid wordt mag je 4x gratis mee komen trainen. Zo kun je zelf ervaren 
 
 Lid worden is heel eenvoudig! Download het aanmeldingsformulier onderaan deze pagina, vul het in, onderteken het en lever het in bij het ledensecretariaat. Te bereiken via: secretaris@vvschijf.nl
 
-| Contributiebedragen 2017-2018       |       |
+| Contributiebedragen                 |       |
 | ----------------------------------- | ----- |
 | Jeugdlid                            | 70,-  |
 | Senioren                            | 130,- |
