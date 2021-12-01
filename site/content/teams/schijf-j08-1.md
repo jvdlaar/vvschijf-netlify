@@ -3,25 +3,30 @@ title: J08-1
 visible: true
 category: junior
 ---
-
 ## Trainingstijden
 
 Woensdag 18:15 uur
 
 ## Technische staf
 
-Martijn Naenen
+Ben Verhoeven
+
 Donny Gorter
 
 ## Selectie
 
-Maud Peeters\
-Siep Castelijn\
-Vico Kruis\
-Sepke van Overveld\
-Nikki Goorden\
-Luuk Naenen\
-Nil Goorden\
-Noah Kaspers\
-Joep van Trijp\
-Dani Gorter
+<!--StartFragment-->
+
+|                                  |
+| -------------------------------- |
+| <!--StartFragment-->Gorter, Dani |
+| Wouters, Siem                    |
+| Tim van Dijk                     |
+| Arink, Lasse                     |
+| Vriends, Bram                    |
+| Trijp, Joep van                  |
+| Overveld, Floor van              |
+| Kaspers, Noah                    |
+| Goorden, Nikki<!--EndFragment--> |
+
+<!--EndFragment-->
