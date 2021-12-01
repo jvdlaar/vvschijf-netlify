@@ -1,35 +1,39 @@
 ---
-title: J013-1
+title: J012-1
 visible: true
 category: junior
 ---
-
 ## Trainingstijden
 
 Dinsdag en donderdag 18:15 uur
 
 ## Technische staf
 
-Hans van Merrienboer (leider)
-Frank de Jong (leider)
-Siebe Jacobs (trainer)
-Hans van Merrienboer (trainer)
+Gerben/ Wilma van de Sande
+
+Miranda Verbraak
+
+Stefan Aarts
+
+Lotte Bogers
 
 ## Selectie
 
-Mark van Beeck\
-Luuk van Kalmthout\
-Cecette Arnouts\
-Miek Goorden\
-Kyra van Overveld\
-Kay Bommelijn\
-Lars de Jong\
-Sanne Snepvangers\
-Tim van Merrienboer\
-Robbe Dekkers\
-Ruben Sweep\
-Iasonas Vassilakos\
-Koen Wooning\
-Noa Kruis\
-Wout Verhoeven\
-Nick Borchardt
+<!--StartFragment-->
+
+|                                   |
+| --------------------------------- |
+| <!--StartFragment-->Goorden, Giel |
+| Sande, Tim van de                 |
+| Jongenelis, Lars                  |
+| Rooze, Sytse                      |
+| Boden, Ties                       |
+| Oosten, Sol van                   |
+| Peeters, Midas                    |
+| Kruis, Iris                       |
+| Wojtowicz, Mateusz                |
+| Verbraak, Pleun                   |
+| Chen, Calvin                      |
+| Goorden, Jan<!--EndFragment-->    |
+
+<!--EndFragment-->
