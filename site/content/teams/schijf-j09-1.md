@@ -3,26 +3,33 @@ title: J09-1
 visible: true
 category: junior
 ---
-
 ## Trainingstijden
 
 Maandag en woensdag 18:15 uur
 
 ## Technische staf
 
-Reinier Goorden
-Ralph Boden
-Dirk Ossenblok
+Martijn Naenen
+
+Jacco van Overveld
+
+Nienke de Jong
 
 ## Selectie
 
-Deef Termohlen\
-Giel Goorden\
-Sam Goorden\
-Césanne Arnouts\
-Kris Vergouwen\
-Lisa van Dijk\
-Fer van de Korput\
-Wes Boden\
-Jens Havermans\
-Xavi Ossenblok
+<!--StartFragment-->
+
+|                                        |
+| -------------------------------------- |
+| <!--StartFragment-->Nijnatten, Eva van |
+| Goorden, Nil                           |
+| Naenen, Luuk                           |
+| Flipsen, Nova                          |
+| Overveld, Sepke van                    |
+| Kruis, Vico                            |
+| Castelijn, Siep                        |
+| Bartels, Saar                          |
+| Peeters, Maud                          |
+| Jochems, Jur<!--EndFragment-->         |
+
+<!--EndFragment-->
