@@ -3,33 +3,35 @@ title: J018-1
 visible: true
 category: junior
 ---
-
 ## Trainingstijden
 
 Maandag en woensdag 19:30 uur
 
 ## Technische staf
 
-Gerard Suijberuijk (leider)
-Rohan Oostvogels (leider)
-Djessie Bouman (trainer)
+Hans van Merrienboer
+
+Peter van Overveld
 
 ## Selectie
 
-Sjoerd Dekkers\
-Lars Bogers\
-Niels Suijkerbuijk\
-Sjoerd Jacobs\
-Robin Oostvogels\
-Ruben van Steen\
-Ioannis Vassilakos\
-Yuan van Nijnatten\
-Bart Peeters\
-Fer Goossens\
-Jim Broos\
-Bram van Overveld\
-Ben Verhoeven\
-Thijs Naalden\
-Joep Verbraak\
-Yente Arnouts\
-Ilona Struijs
+<!--StartFragment-->
+
+|                                    |
+| ---------------------------------- |
+| <!--StartFragment-->Bommelijn, Kay |
+| Overveld, Kyra van                 |
+| Dekkers, Robbe                     |
+| Merrienboer, Tim van               |
+| Jong, Lars de                      |
+| Kalmthout, Luuk van                |
+| Vassilakos, Iasonas                |
+| Verhoeven, Wout                    |
+| Kruis, Noa                         |
+| Sweep, Ruben                       |
+| Arnouts, Cecette                   |
+| Snepvangers, Sanne                 |
+| Goorden, Miek                      |
+| Beeck, Mark van<!--EndFragment-->  |
+
+<!--EndFragment-->
