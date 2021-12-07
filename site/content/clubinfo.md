@@ -57,11 +57,11 @@ v.l.n.r. Hans van Merriënboer, Alwin van Aken, Gerard Suijkerbuijk, Rohan Oostv
 | Functie                   | Naam                 | E-mailadres       | Telefoon |
 | ------------------------- | -------------------- | ----------------- | -------- |
 | Voorzitter                | Hans van Merrienboer | \-                | \-       |
-| Secretaris                | vacant               | \-                | \-       |
+| Secretaris                | Martijn Naenen       | \-                | \-       |
 | Wedstrijdsecretaris jeugd | José Verhoeven       | jeugd@vvschijf.nl | \-       |
 | Bestuurslid               | Floris Naalden       | \-                | \-       |
 | Bestuurslid               | Kristel Snepvangers  | \-                | \-       |
-| Bestuurslid               | vacant               | \-                | \-       |
+| Bestuurslid               | Marcel Gesell        | \-                | \-       |
 
 ### Voetbaltechnische zaken
 
@@ -75,7 +75,9 @@ Jan Hereijgers
 **Dames 1**\
 Ton van Dongen
 
-**Keepers; Jeugd + Senioren**\
+**Keepers; Senioren + jeugd**\
 Richard Fossen / Peter Valster 
+
+Marcel Gesell / Lars Bogers
 
 Voor meer informatie over het privacybeleid van vv Schijf: [AVG](/avg)
