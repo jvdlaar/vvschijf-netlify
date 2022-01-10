@@ -1,5 +1,5 @@
 ---
-title: Dames 1 Vrijdag 18 +
+title: Dames Vrijdag 18 +
 visible: true
 category: dames
 ---
