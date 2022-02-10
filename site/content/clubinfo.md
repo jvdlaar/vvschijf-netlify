@@ -1,6 +1,6 @@
 ---
 title: Clubinfo
-download: /img/jaarversl2020.pdf
+download: /img/jaarverslag-seizoen-2020-2021.doc
 ---
 ***Het correspondentieadres, bezoekadres en de e-mailadressen waarop u ons kunt bereiken.***
 
