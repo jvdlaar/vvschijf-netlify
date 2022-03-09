@@ -4,29 +4,22 @@ download: /img/ophalen-oud-papier.xls
 ---
 ## Ophaaldagen 2021:
 
-23 januari
 
-27 februari
 
-27 maart
-
-17 april
-
-29 mei
-
-26 juni
-
-24 juli
-
-28 augustus
-
-25 september
-
-23 oktober
-
-27 november
-
-18 december 
+|                               |
+| ----------------------------- |
+| <!--StartFragment-->22-jan-22 |
+| 26-feb-22                     |
+| 26-mrt-22                     |
+| 23-apr-22                     |
+| 28-mei-22                     |
+| 25-jun-22                     |
+| 23-jul-22                     |
+| 27-aug-22                     |
+| 24-sep-22                     |
+| 22-okt-22                     |
+| 26-nov-22                     |
+| 17-dec-22                     |
 
 ## Afspraken ophalen oud-papier
 
