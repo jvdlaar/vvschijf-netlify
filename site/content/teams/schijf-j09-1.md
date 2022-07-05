@@ -9,27 +9,25 @@ Maandag en woensdag 18:15 uur
 
 ## Technische staf
 
-Martijn Naenen
+Donny Gorter
 
-Jacco van Overveld
-
-Nienke de Jong
+Ben Verhoeven
 
 ## Selectie
 
 <!--StartFragment-->
 
-|                                        |
-| -------------------------------------- |
-| <!--StartFragment-->Nijnatten, Eva van |
-| Goorden, Nil                           |
-| Naenen, Luuk                           |
-| Flipsen, Nova                          |
-| Overveld, Sepke van                    |
-| Kruis, Vico                            |
-| Castelijn, Siep                        |
-| Bartels, Saar                          |
-| Peeters, Maud                          |
-| Jochems, Jur<!--EndFragment-->         |
+|                                  |
+| -------------------------------- |
+| <!--StartFragment-->Noah Kaspers |
+| Joep van Trijp                   |
+| Bram Vriends                     |
+| Tim van Dijk                     |
+| Eva van Nijnatten                |
+| Siem Wouters                     |
+| Keet Schrauwen                   |
+| Dani Gorter                      |
+|                                  |
+| <!--EndFragment-->               |
 
 <!--EndFragment-->
