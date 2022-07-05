@@ -5,13 +5,13 @@ category: junior
 ---
 ## Trainingstijden
 
-....
+Woensdag 18:30 uur
 
 ## Technische staf
 
-Sander Luijkx
-
 Ronald van Overveld
+
+...
 
 ## Selectie
 
@@ -21,13 +21,13 @@ Ronald van Overveld
 | --------------------------------- |
 | <!--StartFragment-->Wouters, Lena |
 | Overveld, Juul van                |
-| Crijns, Guusje                    |
-| Trijp, Lieke van                  |
-| Goorden, Maud                     |
-| Ossenblok, Noah                   |
-| Verdaasdonk, Vin                  |
-| Castelijn, Riv                    |
-| Termohlen, Suus                   |
-| Luijkx, Julie<!--EndFragment-->   |
+| Noud Naenen                       |
+| Leff de Beer                      |
+| Bas van Hooydonck                 |
+| Pip Schrauwen                     |
+|                                   |
+|                                   |
+|                                   |
+| <!--EndFragment-->                |
 
 <!--EndFragment-->
