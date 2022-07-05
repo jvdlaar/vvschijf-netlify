@@ -5,7 +5,7 @@ category: junior
 ---
 ## Trainingstijden
 
-Dinsdag en donderdag 18:15 uur
+Maandag en woensdag 18:15 uur
 
 ## Technische staf
 
