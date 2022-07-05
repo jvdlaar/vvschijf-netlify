@@ -9,9 +9,9 @@ Woensdag 18:15 uur
 
 ## Technische staf
 
-Ben Verhoeven
+Sander Luijkx
 
-Donny Gorter
+Tim Goorden
 
 ## Selectie
 
@@ -19,14 +19,14 @@ Donny Gorter
 
 |                                  |
 | -------------------------------- |
-| <!--StartFragment-->Gorter, Dani |
-| Wouters, Siem                    |
-| Tim van Dijk                     |
-| Arink, Lasse                     |
-| Vriends, Bram                    |
-| Trijp, Joep van                  |
-| Overveld, Floor van              |
-| Kaspers, Noah                    |
-| Goorden, Nikki<!--EndFragment--> |
+| <!--StartFragment-->Julie Luijkx |
+| Riv Castelijn                    |
+| Vin Verdaasdonk                  |
+| Lasse Arink                      |
+| Noah Ossenblok                   |
+| Maud Goorden                     |
+| Lieke van Trijp                  |
+|                                  |
+| <!--EndFragment-->               |
 
 <!--EndFragment-->
