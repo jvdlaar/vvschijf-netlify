@@ -1,11 +1,11 @@
 ---
-title: J014-1
+title: J015-1
 visible: true
 category: junior
 ---
 ## Trainingstijden
 
-Maandag en woensdag 19:30 uur
+Dinsdag en donderdag 19:30 uur
 
 ## Technische staf
 
@@ -31,7 +31,6 @@ Peter van Overveld
 | Sweep, Ruben                       |
 | Arnouts, Cecette                   |
 | Snepvangers, Sanne                 |
-| Goorden, Miek                      |
 | Beeck, Mark van<!--EndFragment-->  |
 
 <!--EndFragment-->
