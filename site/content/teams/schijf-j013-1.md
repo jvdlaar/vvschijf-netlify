@@ -30,10 +30,10 @@ Lotte Bogers
 | Boden, Ties                       |
 | Oosten, Sol van                   |
 | Peeters, Midas                    |
-| Kruis, Iris                       |
-| Wojtowicz, Mateusz                |
-| Verbraak, Pleun                   |
+| Jan Goorden                       |
+| Deef Termohlen                    |
+| Wes Boden                         |
 | Chen, Calvin                      |
-| Goorden, Jan<!--EndFragment-->    |
+| <!--EndFragment-->                |
 
 <!--EndFragment-->
