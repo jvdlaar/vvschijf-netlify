@@ -26,7 +26,7 @@ Tim Goorden
 | Noah Ossenblok                   |
 | Maud Goorden                     |
 | Lieke van Trijp                  |
-|                                  |
+| Jasmijn Martens                  |
 | <!--EndFragment-->               |
 
 <!--EndFragment-->
