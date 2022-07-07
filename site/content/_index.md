@@ -1,5 +1,5 @@
 ---
 title: Voetbalvereninging vv Schijf
 blurb:
-  heading: 26 mei Stan de Smidt familievoetbaltoernooi - geef jouw familie nu op!
+  heading: Geniet van jouw vakantie, tot na de zomerstop!
 ---
