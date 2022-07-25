@@ -1,5 +1,5 @@
 ---
-title: J07-1
+title: JO07-1
 visible: true
 category: junior
 ---
@@ -17,17 +17,13 @@ Ronald van Overveld
 
 <!--StartFragment-->
 
-|                                  |
-| -------------------------------- |
-| <!--StartFragment-->Lena Wouters |
-| Overveld, Juul van               |
-| Noud Naenen                      |
-| Leff de Beer                     |
-| Bas van Hooydonck                |
-| Pip Schrauwen                    |
-|                                  |
-|                                  |
-|                                  |
-| <!--EndFragment-->               |
+|                                        |
+| -------------------------------------- |
+| <!--StartFragment-->Overveld, Juul van |
+| Wouters, Lena                          |
+| Noud Naenen                            |
+| Leff de Beer                           |
+| Pip Schrauwen                          |
+| Bas van Hooydonck<!--EndFragment-->    |
 
 <!--EndFragment-->
