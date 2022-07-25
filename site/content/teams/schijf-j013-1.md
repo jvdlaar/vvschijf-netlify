@@ -21,19 +21,16 @@ Lotte Bogers
 
 <!--StartFragment-->
 
-|                                   |
-| --------------------------------- |
-| <!--StartFragment-->Goorden, Giel |
-| Sande, Tim van de                 |
-| Jongenelis, Lars                  |
-| Rooze, Sytse                      |
-| Boden, Ties                       |
-| Oosten, Sol van                   |
-| Peeters, Midas                    |
-| Jan Goorden                       |
-| Deef Termohlen                    |
-| Wes Boden                         |
-| Chen, Calvin                      |
-| <!--EndFragment-->                |
-
-<!--EndFragment-->
+|                                    |
+| ---------------------------------- |
+| <!--StartFragment-->Peeters, Midas |
+| Oosten, Sol van                    |
+| Chen, Calvin                       |
+| Boden, Ties                        |
+| Jongenelis, Lars                   |
+| Sande, Tim van de                  |
+| van den Hoven, Sem                 |
+| Termohlen, Deef                    |
+| Goorden, Giel                      |
+| Boden, Wes                         |
+| Sytse Rooze<!--EndFragment-->      |
