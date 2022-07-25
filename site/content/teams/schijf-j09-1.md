@@ -17,17 +17,15 @@ Ben Verhoeven
 
 <!--StartFragment-->
 
-|                                  |
-| -------------------------------- |
-| <!--StartFragment-->Noah Kaspers |
-| Joep van Trijp                   |
-| Bram Vriends                     |
-| Tim van Dijk                     |
-| Eva van Nijnatten                |
-| Siem Wouters                     |
-| Keet Schrauwen                   |
-| Dani Gorter                      |
-|                                  |
-| <!--EndFragment-->               |
+|                                   |
+| --------------------------------- |
+| <!--StartFragment-->Kaspers, Noah |
+| Trijp, Joep van                   |
+| Vriends, Bram                     |
+| Tim van Dijk                      |
+| Nijnatten, Eva van                |
+| Wouters, Siem                     |
+| Keet Schrauwen                    |
+| Gorter, Dani<!--EndFragment-->    |
 
 <!--EndFragment-->
