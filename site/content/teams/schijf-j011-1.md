@@ -1,5 +1,5 @@
 ---
-title: J011-1
+title: JO11-1
 visible: true
 category: junior
 ---
@@ -17,15 +17,17 @@ Dirk Ossenblok
 
 <!--StartFragment-->
 
-|                                                  |
-| ------------------------------------------------ |
-| <!--StartFragment-->Maud Peeters Ossenblok, Xavi |
-| Havermans, Jens                                  |
-| Boden, Wes                                       |
-| Dijk, Lisa van                                   |
-| Vergouwen, Kris                                  |
-| Arnouts, Cesanne                                 |
-| Goorden, Sam                                     |
-| Vico Kruis<!--EndFragment-->                     |
+|                                   |
+| --------------------------------- |
+| <!--StartFragment-->Peeters, Maud |
+| Arnouts, Cesanne                  |
+| Vergouwen, Kris                   |
+| Dijk, Lisa van                    |
+| Bartels, Saar                     |
+| Goorden, Sam                      |
+| Havermans, Jens                   |
+| Tjitske Rooze                     |
+| Ossenblok, Xavi                   |
+| Kruis, Vico<!--EndFragment-->     |
 
 <!--EndFragment-->
