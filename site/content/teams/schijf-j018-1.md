@@ -13,24 +13,37 @@ Hans van Merrienboer
 
 Peter van Overveld
 
+Gilles Goorden (tr)
+
+Niels Suijkerbuijk (tr)
+
 ## Selectie
 
 <!--StartFragment-->
 
-|                                    |
-| ---------------------------------- |
-| <!--StartFragment-->Bommelijn, Kay |
-| Overveld, Kyra van                 |
-| Dekkers, Robbe                     |
-| Merrienboer, Tim van               |
-| Jong, Lars de                      |
-| Kalmthout, Luuk van                |
-| Vassilakos, Iasonas                |
-| Verhoeven, Wout                    |
-| Kruis, Noa                         |
-| Sweep, Ruben                       |
-| Arnouts, Cecette                   |
-| Snepvangers, Sanne                 |
-| Beeck, Mark van<!--EndFragment-->  |
+
+
+<!--StartFragment-->
+
+|                                      |
+| ------------------------------------ |
+| <!--StartFragment-->Arnouts, Cecette |
+| Goorden, Miek                        |
+| Overveld, Kyra van                   |
+| Beeck, Mark van                      |
+| Kalmthout, Luuk van                  |
+| Bommelijn, Kay                       |
+| Jong, Lars de                        |
+| Snepvangers, Sanne                   |
+| Merrienboer, Tim van                 |
+| Dekkers, Robbe                       |
+| Sweep, Ruben                         |
+| Vassilakos, Iasonas                  |
+| Koen Woonings                        |
+| Kruis, Noa                           |
+| Verhoeven, Wout                      |
+| Verbraak, Pleun                      |
+| Wojtowicz, Mateusz                   |
+| Goorden, Jan<!--EndFragment-->       |
 
 <!--EndFragment-->
