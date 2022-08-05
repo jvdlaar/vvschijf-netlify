@@ -17,13 +17,13 @@ Ronald van Overveld
 
 <!--StartFragment-->
 
-|                                        |
-| -------------------------------------- |
-| <!--StartFragment-->Overveld, Juul van |
-| Wouters, Lena                          |
-| Noud Naenen                            |
-| Leff de Beer                           |
-| Pip Schrauwen                          |
-| Bas van Hooydonck<!--EndFragment-->    |
+|                                       |
+| ------------------------------------- |
+| <!--StartFragment-->Juul van Overveld |
+| Lena Wouters                          |
+| Noud Naenen                           |
+| Leff de Beer                          |
+| Pip Schrauwen                         |
+| Bas van Hooydonck<!--EndFragment-->   |
 
 <!--EndFragment-->
