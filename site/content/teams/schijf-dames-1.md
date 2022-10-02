@@ -13,7 +13,7 @@ Dinsdag en donderdag van 19.30 tot 21.00 uur.
 ## Technische staf
 
 Ton van Dongen\
-Robbert Rommers\
+Robert Rommers\
 Irma Schrauwen
 
 ## Selectie
