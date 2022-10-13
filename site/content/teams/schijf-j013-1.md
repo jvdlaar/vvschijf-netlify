@@ -2,6 +2,7 @@
 title: JO12-1
 visible: true
 category: junior
+image: /img/jo12.jpg
 ---
 ## Trainingstijden
 
