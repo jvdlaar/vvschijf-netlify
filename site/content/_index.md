@@ -1,5 +1,5 @@
 ---
 title: Voetbalvereninging vv Schijf
 blurb:
-  heading: Geniet van jouw vakantie, tot na de zomerstop!
+  heading: "Welkom terug! 6 november: oktoberfest in de kantine!"
 ---
