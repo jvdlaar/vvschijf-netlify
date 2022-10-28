@@ -2,6 +2,7 @@
 title: JO08-1
 visible: true
 category: junior
+image: /img/jo8.bijgesneden.jpg
 ---
 ## Trainingstijden
 
