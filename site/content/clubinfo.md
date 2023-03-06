@@ -28,29 +28,25 @@ Tel. 0165 34 31 15
 
 ### Hoofdbestuur
 
-![Hoofdbestuur](/img/hoofdbestuur_.jpg "Hoofdbestuur")
-
-v.l.n.r. Rob Adriaensen, Jan Naalden, Sven Arink, Roy van Zundert, Paul Suijkerbuijk, Erwin Damen, Evelien Hack, Gerard Suijkerbuijk en Mieke Godrie.
+![Hoofdbestuur]( "Hoofdbestuur")
 
 **Leden Hoofdbestuur**
 
 | Functie               | Naam                 | E-mailadres                       | Telefoon                     |
 | --------------------- | -------------------- | --------------------------------- | ---------------------------- |
-| Voorzitter            | vacant               | \-                                | \-                           |
+| Voorzitter            | Ralph Boden          | v﻿oorzitter@vvschijf.nl           | 0﻿654973270                  |
 | Secretaris            | Evelien Hack         | secretaris@vvschijf.nl            | [0623885767](tel:0612010556) |
 | Penningmeester        | Sven Arink           | svenarink@gmail.com               | [0622615633](tel:0622615633) |
 | Wedstrijdsecretariaat | Erwin Damen          | wedstrijdsecretariaat@vvschijf.nl | \-                           |
-| Sponsoring            | Rob Adriaensen       | sponsoring@vvschijf.nl            | [0683968415](tel:0683968415) |
+| Sponsoring            | Vacant               | sponsoring@vvschijf.nl            | \-﻿[](tel:0683968415)        |
 | Activiteiten          | Fleur Suijkerbuijk   | activiteiten@vvschijf.nl          | \-                           |
 | Jeugdzaken            | Hans van Merrienboer | \-                                | \-                           |
 | Accommodatie          | Jan Naalden          | \-                                | \-                           |
-| Kantine beheer        | Paul Suijkerbuijk    | p.suijkerbuijk14@gmail.com        | [0655688931](tel:0655688931) |
+| Kantine beheer        | Ron Schrauwen        | \-﻿                               | \-﻿                          |
 
 ### Jeugdbestuur
 
-![Jeugdbestuur](/img/jeugdbestuur_.jpg "Jeugdbestuur")
-
-v.l.n.r. Hans van Merriënboer, Alwin van Aken, Gerard Suijkerbuijk, Rohan Oostvogels en Floris Naalden.
+![Jeugdbestuur]( "Jeugdbestuur")
 
 **Leden Jeugdbestuur**
 
@@ -70,14 +66,14 @@ tc@vvschijf.nl
 ### Hoofdtrainers
 
 **Heren 1**\
-Jan Hereijgers
+A﻿ytaç Akkaya
 
 **Dames 1**\
 Ton van Dongen
 
 **Keepers; Senioren + jeugd**\
-Richard Fossen / Peter Valster 
+Peter Valster 
 
-Marcel Gesell / Lars Bogers
+Kiske Martens
 
 Voor meer informatie over het privacybeleid van vv Schijf: [AVG](/avg)
