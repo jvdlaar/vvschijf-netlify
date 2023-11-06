@@ -2,7 +2,7 @@
 title: JO11-1
 visible: true
 category: junior
-image: /img/jo11-2022.2023.jpg
+image: ""
 ---
 ## Trainingstijden
 
@@ -10,25 +10,21 @@ Maandag en woensdag 18:15 uur
 
 ## Technische staf
 
-Reinier Goorden
-
-Dirk Ossenblok
+M﻿artijn Naenen\
+J﻿acco van Overveld\
+S﻿iebe Jacobs
 
 ## Selectie
 
-<!--StartFragment-->
-
-|                                   |
-| --------------------------------- |
-| <!--StartFragment-->Peeters, Maud |
-| Arnouts, Cesanne                  |
-| Vergouwen, Kris                   |
-| Dijk, Lisa van                    |
-| Bartels, Saar                     |
-| Goorden, Sam                      |
-| Havermans, Jens                   |
-| Tjitske Rooze                     |
-| Ossenblok, Xavi                   |
-| Kruis, Vico<!--EndFragment-->     |
-
-<!--EndFragment-->
+S﻿aar Bartels\
+C﻿ésanne Arnouts\
+L﻿isa van Dijk\
+T﻿jitske Roose\
+Si﻿ep Castelijn\
+S﻿epke van Overveld\
+V﻿ico Kruis\
+J﻿ur Jochems\
+J﻿ason Simons\
+Q﻿uinten de Haan\
+L﻿uuk Naenen\
+N﻿il Goorden
