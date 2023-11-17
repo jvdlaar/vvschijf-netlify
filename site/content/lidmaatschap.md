@@ -14,12 +14,12 @@ Voordat je lid wordt mag je 4x gratis mee komen trainen. Zo kun je zelf ervaren 
 
 Lid worden is heel eenvoudig! Download het aanmeldingsformulier onderaan deze pagina, vul het in, onderteken het en lever het in bij het ledensecretariaat. Te bereiken via: secretaris@vvschijf.nl
 
-| Contributiebedragen            |       |
-| ------------------------------ | ----- |
-| Jeugdlid / 7X7                 | 70,-  |
-| Senioren                       | 130,- |
-| Commissielid / lid 16-18 jaar  | 100,- |
-| Kaderlid                       | 70,-  |
+| Contributiebedragen           |       |
+| ----------------------------- | ----- |
+| Jeugdlid / 7X7                | 80,-  |
+| Senioren                      | 140,- |
+| Commissielid / lid 16-18 jaar | 110,- |
+| Kaderlid                      | 80,-  |
 
 Voor spelers van 11 jaar en ouder die deel willen gaan nemen aan competitie- en/of bekerwedstrijden is het verplicht om een KNVB spelerspas aan te vragen.
 Hiervoor hebben wij ook een **recente pasfoto** van je nodig die je met het aanmeldingsformulier kunt inleveren. Voor nieuwe leden vanaf 16 jaar is het verplicht om samen met het aanmeldingsformulier een **kopie** van een **geldig legitimatiebewijs** in te leveren.
