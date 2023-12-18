@@ -2,29 +2,23 @@
 title: JO07-1
 visible: true
 category: junior
-image: /img/jo7-2022-11-05-10-09-10.jpg
+image: ""
 ---
 ## Trainingstijden
 
-Woensdag 18:30 uur
+Woensdag 18:15 uur
 
 ## Technische staf
 
-Ronald van Overveld
-
-M﻿arvin de Beer
+M﻿arvin de Beer\
+J﻿eroen Vissers
 
 ## Selectie
 
-<!--StartFragment-->
-
-|                                       |
-| ------------------------------------- |
-| <!--StartFragment-->Juul van Overveld |
-| Lena Wouters                          |
-| N﻿oud Naenen                          |
-| Leff de Beer                          |
-| Pip Schrauwen                         |
-| Bas van Hooydonck<!--EndFragment-->   |
-
-<!--EndFragment-->
+Y﻿ara Wijtman\
+L﻿eff de Beer\
+I﻿se van Trijp\
+D﻿aaf Crijns\
+J﻿ip van Overveld\
+M﻿ats Martens\
+Y﻿inte Wijtman
