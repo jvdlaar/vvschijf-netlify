@@ -2,34 +2,25 @@
 title: JO08-1
 visible: true
 category: junior
-image: /img/jo8.bijgesneden.jpg
+image: ""
 ---
 ## Trainingstijden
 
-Woensdag 18:15 uur
+Maandag en woensdag 18:15 uur
 
 ## Technische staf
 
-Sander Luijkx
-
-Tim Goorden
+R﻿onald van Overveld\
+M﻿erijn Schrauwen
 
 ## Selectie
 
-<!--StartFragment-->
-
-|                                   |
-| --------------------------------- |
-| <!--StartFragment-->Luijkx, Julie |
-| Castelijn, Riv                    |
-| Verdaasdonk, Vin                  |
-| Arink, Lasse                      |
-| Ossenblok, Noah                   |
-| Goorden, Maud                     |
-| Trijp, Lieke van                  |
-| Martens, Jasmijn                  |
-| Termohlen, Suus                   |
-| Peeters, Tijn                     |
-| Crijns, Guusje<!--EndFragment-->  |
-
-<!--EndFragment-->
+G﻿ene Faes\
+J﻿uul van Overveld\
+P﻿ien van de Korput\
+L﻿ena Wouters\
+I﻿sa Jochems\
+S﻿am Nouws\
+P﻿ip Schrauwen\
+B﻿erend Lokven\
+N﻿oud Naenen
