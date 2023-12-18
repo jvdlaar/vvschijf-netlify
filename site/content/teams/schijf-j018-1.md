@@ -1,5 +1,5 @@
 ---
-title: JO15-1
+title: JO16-1
 visible: true
 category: junior
 ---
@@ -9,41 +9,27 @@ Dinsdag en donderdag 19:30 uur
 
 ## Technische staf
 
-Hans van Merrienboer
-
-Peter van Overveld
-
-Gilles Goorden (tr)
-
+Hans van Merrienboer\
+Peter van Overveld\
+Gilles Goorden (tr)\
 Niels Suijkerbuijk (tr)
 
 ## Selectie
 
-<!--StartFragment-->
-
-
-
-<!--StartFragment-->
-
-|                                      |
-| ------------------------------------ |
-| <!--StartFragment-->Arnouts, Cecette |
-| Goorden, Miek                        |
-| Overveld, Kyra van                   |
-| Beeck, Mark van                      |
-| Kalmthout, Luuk van                  |
-| Bommelijn, Kay                       |
-| Jong, Lars de                        |
-| Snepvangers, Sanne                   |
-| Merrienboer, Tim van                 |
-| Dekkers, Robbe                       |
-| Sweep, Ruben                         |
-| Vassilakos, Iasonas                  |
-| Koen Woonings                        |
-| Kruis, Noa                           |
-| Verhoeven, Wout                      |
-| Verbraak, Pleun                      |
-| Wojtowicz, Mateusz                   |
-| Goorden, Jan<!--EndFragment-->       |
-
-<!--EndFragment-->
+M﻿ark van Beeck\
+L﻿uuk van Kalmthout\
+C﻿ecette Arnouts\
+M﻿iek Goorden\
+K﻿yra van Overveld\
+K﻿ay Bommelijn\
+L﻿ars de Jong\
+S﻿anne Snepvangers\
+T﻿im van Merrienboer\
+R﻿obbe Dekkers\
+R﻿uben Sweep\
+I﻿asonas Vassilakos\
+K﻿oen Woonings\
+N﻿oa Kruis\
+W﻿out Verhoeven\
+P﻿leun Verbraak\
+M﻿ateusz Wojtowicz
