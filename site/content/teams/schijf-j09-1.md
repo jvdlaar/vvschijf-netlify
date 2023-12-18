@@ -9,23 +9,17 @@ Maandag en woensdag 18:15 uur
 
 ## Technische staf
 
-Donny Gorter
-
-Ben Verhoeven
+T﻿im Goorden\
+R﻿onald Flipsen
 
 ## Selectie
 
-<!--StartFragment-->
-
-|                                   |
-| --------------------------------- |
-| <!--StartFragment-->Kaspers, Noah |
-| Trijp, Joep van                   |
-| Vriends, Bram                     |
-| Tim van Dijk                      |
-| Nijnatten, Eva van                |
-| Wouters, Siem                     |
-| Keet Schrauwen                    |
-| Gorter, Dani<!--EndFragment-->    |
-
-<!--EndFragment-->
+R﻿iv Castelijn\
+V﻿in Verdaasdonk\
+L﻿asse Arink\
+N﻿oah Ossenblok\
+M﻿aud Goorden\
+F﻿leur Havermans\
+B﻿o Flipsen\
+J﻿asmijn Martens\
+D﻿aan Vriends
