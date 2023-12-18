@@ -17,6 +17,7 @@ S﻿iebe Jacobs
 ## Selectie
 
 S﻿aar Bartels\
+M﻿aud Peeters\
 C﻿ésanne Arnouts\
 L﻿isa van Dijk\
 T﻿jitske Roose\
@@ -24,7 +25,6 @@ Si﻿ep Castelijn\
 S﻿epke van Overveld\
 V﻿ico Kruis\
 J﻿ur Jochems\
-J﻿ason Simons\
 Q﻿uinten de Haan\
 L﻿uuk Naenen\
 N﻿il Goorden
