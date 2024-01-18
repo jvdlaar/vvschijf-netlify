@@ -4,9 +4,6 @@ top:
   - title: Van Meer Schoenen
     image: /img/van_meer_schoenen.png
     link: http://www.vanmeerschoenen.nl/
-  - title: Zuid-Nederlandse ramenfabriek
-    image: /img/visitekaart_znr.png
-    link: http://www.znrbv.nl/
 clothing:
   - title: Loon- en Grondwerkbedrijf Martens
     image: /img/loon_en_grondwerkbedrijf_martens_1.png
@@ -188,7 +185,6 @@ canteen:
   - title: Martens Tweewielers
     image: /img/martens-tweewielers.png
     link: http://www.martens-tweewielers.nl/
-  - image: /img/tamoil_schijf_0.png
   - title: Attent Bouman
     image: /img/attent_bouman2.png
     link: http://www.attentschijf.nl/index.html
