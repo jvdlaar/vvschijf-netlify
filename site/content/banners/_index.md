@@ -4,9 +4,6 @@ banners:
   - title: schijf.eu
     image: /img/5chijf.png
     link: http://www.schijf.eu
-  - title: Zuid-Nederlandse ramenfabriek
-    image: /img/znr.jpg
-    link: http://www.znrbv.nl/
   - title: Van Meer schoenen
     image: /img/van_meer_schoenen_0.png
     link: http://www.vanmeerschoenen.nl
