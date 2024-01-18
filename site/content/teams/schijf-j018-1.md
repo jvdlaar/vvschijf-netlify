@@ -5,12 +5,13 @@ category: junior
 ---
 ## Trainingstijden
 
-Dinsdag en donderdag 19:30 uur
+Dinsdag en donderdag 18:30 uur
 
 ## Technische staf
 
 Hans van Merrienboer\
 Peter van Overveld\
+Peter Snepvangers\
 Gilles Goorden (tr)\
 Niels Suijkerbuijk (tr)
 
