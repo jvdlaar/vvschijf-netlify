@@ -24,7 +24,7 @@ De Nieuwe Zoek 21\
 
 Zoeksedijk 6\
 4721 AT  Schijf\
-Tel. 0165 34 31 15
+Tel. 06 55688931
 
 ### Hoofdbestuur
 
