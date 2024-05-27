@@ -3,7 +3,15 @@ title: JO09-1
 visible: true
 category: junior
 ---
-## Trainingstijden
+## Vervolg route
+
+Hessen --> Saarland --> \
+Mecklenburg-Vorpommern --> Baden-Württemberg
+
+\
+\
+\
+Trainingstijden
 
 Maandag en woensdag 18:15 uur
 
