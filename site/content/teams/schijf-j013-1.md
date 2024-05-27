@@ -4,7 +4,16 @@ visible: true
 category: junior
 image: ""
 ---
-## Trainingstijden
+## Vervolg route
+
+
+
+Ga opnieuw naar Rheinland-Pfalz
+
+\
+\
+\
+Trainingstijden
 
 Dinsdag en donderdag 18:15 uur
 
