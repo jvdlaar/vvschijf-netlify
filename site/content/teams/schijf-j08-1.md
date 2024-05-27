@@ -4,7 +4,18 @@ visible: true
 category: junior
 image: ""
 ---
-## Trainingstijden
+## Vervolg route
+
+
+
+Hessen --> Saarland --> Mecklenburg-Vorpommern --> \
+Baden-Württemberg --> Thüringen --> Brandenburg
+
+
+
+
+
+Trainingstijden
 
 Maandag en woensdag 18:15 uur
 
