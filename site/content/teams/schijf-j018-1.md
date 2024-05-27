@@ -3,7 +3,18 @@ title: JO16-1
 visible: true
 category: junior
 ---
-## Trainingstijden
+## Vervolg route
+
+Hessen --> Saarland --> Mecklenburg-Vorpommern --> \
+Baden-Württemberg --> Thüringen --> Brandenburg --> \
+Bayern --> Sachsen --> Schleswig-Holstein --> Rheinland-Pfalz
+
+\
+\
+\
+\
+\
+Trainingstijden
 
 Dinsdag en donderdag 18:30 uur
 
