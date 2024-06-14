@@ -3,12 +3,7 @@ title: JO09-1
 visible: true
 category: junior
 ---
-## Technische staf
-
-R﻿onald van Overveld\
-M﻿erijn Schrauwen
-
-## Selectie
+## Spelers
 
 G﻿ene Faes\
 J﻿uul van Overveld\
@@ -18,6 +13,13 @@ I﻿sa Jochems\
 S﻿am Nouws\
 P﻿ip Schrauwen\
 B﻿erend Lokven\
-N﻿oud Naenen\
-\
+N﻿oud Naenen
+
+## Technische staf
+
+R﻿onald van Overveld\
+M﻿erijn Schrauwen
+
+## Trainingstijden
+
 Maandag en woensdag 18:15 uur
