@@ -4,14 +4,6 @@ visible: true
 category: junior
 image: ""
 ---
-## Vervolg route
-
-Hessen --> Saarland
-
-
-
-
-
 Maandag en woensdag 18:15 uur
 
 ## Technische staf
@@ -33,4 +25,11 @@ V﻿ico Kruis\
 J﻿ur Jochems\
 Q﻿uinten de Haan\
 L﻿uuk Naenen\
-N﻿il Goorden
+N﻿il Goorden\
+N﻿oah Kaspers\
+J﻿oep van Trijp\
+B﻿ram Vriends\
+T﻿im van Dijk\
+M﻿ees Delahaje\
+S﻿iem Wouters\
+D﻿ani Gorter
