@@ -4,23 +4,11 @@ visible: true
 category: junior
 image: ""
 ---
-## Technische staf
+## Spelers
 
-M﻿arvin de Beer
-
-## Selectie
-
-G﻿ene Faes\
-J﻿uul van Overveld\
-P﻿ien van de Korput\
-L﻿ena Wouters\
-I﻿sa Jochems\
-S﻿am Nouws\
-P﻿ip Schrauwen\
-B﻿erend Lokven\
-N﻿oud Naenen\
-\
 Y﻿ara Wijtman\
+B﻿as van Hooydonck\
+S﻿tijn Peeters\
 L﻿eff de Beer\
 I﻿se van Trijp\
 D﻿aaf Crijns\
