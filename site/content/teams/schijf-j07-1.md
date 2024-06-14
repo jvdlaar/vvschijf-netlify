@@ -4,12 +4,6 @@ visible: true
 category: junior
 image: ""
 ---
-## Technische staf
-
-M﻿aikel van Nijnatten\
-J﻿elle Rens\
-J﻿eroen Vissers
-
 ## Selectie
 
 Tijn Rens\
@@ -19,6 +13,12 @@ N﻿iek Naenen\
 J﻿urre Vissers\
 C﻿as van Nijnatten\
 T﻿ies van Tighelt
+
+## Technische staf
+
+M﻿aikel van Nijnatten\
+J﻿elle Rens\
+J﻿eroen Vissers
 
 ## Trainingtijden
 
