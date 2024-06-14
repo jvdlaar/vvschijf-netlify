@@ -22,4 +22,4 @@ V﻿ictor Wijtman
 
 ## Trainingstijden
 
-M﻿aandag en woensdag 18:15 uur
+Woensdag 18:15 uur
