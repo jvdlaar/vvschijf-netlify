@@ -27,7 +27,10 @@ D﻿aaf Crijns\
 J﻿ip van Overveld\
 M﻿ats Martens
 
+## Technische staf
 
+M﻿arvin de Beer\
+V﻿ictor Wijtman
 
 ## Trainingstijden
 
