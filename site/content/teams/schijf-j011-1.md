@@ -1,24 +1,11 @@
 ---
-title: JO11-1
+title: JO12-1
 visible: true
 category: junior
 image: ""
 ---
-Maandag en woensdag 18:15 uur
+## Spelers
 
-## Technische staf
-
-M﻿artijn Naenen\
-J﻿acco van Overveld\
-S﻿iebe Jacobs
-
-## Selectie
-
-S﻿aar Bartels\
-M﻿aud Peeters\
-C﻿ésanne Arnouts\
-L﻿isa van Dijk\
-T﻿jitske Roose\
 Si﻿ep Castelijn\
 S﻿epke van Overveld\
 V﻿ico Kruis\
@@ -29,7 +16,16 @@ N﻿il Goorden\
 N﻿oah Kaspers\
 J﻿oep van Trijp\
 B﻿ram Vriends\
+C﻿as Dictus\
 T﻿im van Dijk\
-M﻿ees Delahaje\
-S﻿iem Wouters\
 D﻿ani Gorter
+
+## Technische staf
+
+M﻿artijn Naenen\
+D﻿onny Gorter\
+J﻿acco van Overveld
+
+## Trainingstijden
+
+Maandag en woensdag 18:15 uur
