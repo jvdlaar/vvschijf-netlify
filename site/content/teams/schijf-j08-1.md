@@ -4,25 +4,9 @@ visible: true
 category: junior
 image: ""
 ---
-## Vervolg route
-
-
-
-Hessen --> Saarland --> Mecklenburg-Vorpommern --> \
-Baden-Württemberg --> Thüringen --> Brandenburg
-
-
-
-
-
-Trainingstijden
-
-Maandag en woensdag 18:15 uur
-
 ## Technische staf
 
-R﻿onald van Overveld\
-M﻿erijn Schrauwen
+M﻿arvin de Beer
 
 ## Selectie
 
@@ -34,4 +18,17 @@ I﻿sa Jochems\
 S﻿am Nouws\
 P﻿ip Schrauwen\
 B﻿erend Lokven\
-N﻿oud Naenen
+N﻿oud Naenen\
+\
+Y﻿ara Wijtman\
+L﻿eff de Beer\
+I﻿se van Trijp\
+D﻿aaf Crijns\
+J﻿ip van Overveld\
+M﻿ats Martens
+
+
+
+## Trainingstijden
+
+M﻿aandag en woensdag 18:15 uur
