@@ -12,7 +12,7 @@ L﻿ena Wouters\
 I﻿sa Jochems\
 S﻿am Nouws\
 P﻿ip Schrauwen\
-B﻿erend Lokven\
+B﻿erend van Lokven\
 N﻿oud Naenen
 
 ## Technische staf
