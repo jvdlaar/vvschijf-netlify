@@ -17,13 +17,11 @@ N﻿oah Kaspers\
 J﻿oep van Trijp\
 B﻿ram Vriends\
 C﻿as Dictus\
-T﻿im van Dijk\
-D﻿ani Gorter
+T﻿im van Dijk
 
 ## Technische staf
 
 M﻿artijn Naenen\
-D﻿onny Gorter\
 J﻿acco van Overveld
 
 ## Trainingstijden
