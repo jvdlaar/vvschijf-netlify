@@ -66,7 +66,7 @@ tc@vvschijf.nl
 ### Hoofdtrainers
 
 **Heren 1**\
-A﻿ytaç Akkaya
+W﻿ilfried Foesenek
 
 **Dames 1**\
 Ton van Dongen
