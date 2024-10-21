@@ -38,7 +38,7 @@ Tel. 06 55688931
 | Secretaris            | Evelien Hack         | secretaris@vvschijf.nl            | [0623885767](tel:0612010556) |
 | Penningmeester        | B﻿as Adriaensen      |                                   | [](tel:0622615633)           |
 | Wedstrijdsecretariaat | Erwin Damen          | wedstrijdsecretariaat@vvschijf.nl | \-                           |
-| Sponsoring            | Vacant               | sponsoring@vvschijf.nl            | \-﻿[](tel:0683968415)        |
+| Sponsoring            | L﻿otte Godrie        | sponsoring@vvschijf.nl            | \-﻿[](tel:0683968415)        |
 | Activiteiten          | Fleur Suijkerbuijk   | activiteiten@vvschijf.nl          | \-                           |
 | Jeugdzaken            | Hans van Merrienboer | \-                                | \-                           |
 | Accommodatie          | Jan Naalden          | \-                                | \-                           |
@@ -53,11 +53,11 @@ Tel. 06 55688931
 | Functie                   | Naam                 | E-mailadres       | Telefoon |
 | ------------------------- | -------------------- | ----------------- | -------- |
 | Voorzitter                | Hans van Merrienboer | \-                | \-       |
-| Secretaris                | Martijn Naenen       | \-                | \-       |
+| Secretaris                |                      | \-                | \-       |
 | Wedstrijdsecretaris jeugd | José Verhoeven       | jeugd@vvschijf.nl | \-       |
-| Bestuurslid               | Floris Naalden       | \-                | \-       |
+| Bestuurslid               | L﻿otte Bogers        | \-                | \-       |
 | Bestuurslid               | Kristel Snepvangers  | \-                | \-       |
-| Bestuurslid               | Marcel Gesell        | \-                | \-       |
+| Bestuurslid               | G﻿erben van de sande | \-                | \-       |
 
 ### Voetbaltechnische zaken
 
