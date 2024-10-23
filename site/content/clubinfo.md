@@ -34,7 +34,7 @@ Tel. 06 55688931
 
 | Functie               | Naam                 | E-mailadres                       | Telefoon                     |
 | --------------------- | -------------------- | --------------------------------- | ---------------------------- |
-| Voorzitter            | Ralph Boden          | v﻿oorzitter@vvschijf.nl           | 0﻿654973270                  |
+| Voorzitter            | Ralph Boden          | r﻿alphboden@outlook.com           | 0﻿654973270                  |
 | Secretaris            | Evelien Hack         | secretaris@vvschijf.nl            | [0623885767](tel:0612010556) |
 | Penningmeester        | B﻿as Adriaensen      |                                   | [](tel:0622615633)           |
 | Wedstrijdsecretariaat | Erwin Damen          | wedstrijdsecretariaat@vvschijf.nl | \-                           |
