@@ -13,7 +13,7 @@ Voor al je vragen of het laten plaatsen van je bericht op de website.
 
 **Opgericht**: 1 juli 1966
 
-**Tenue**: Geel shirt, Rode broek en geel/rode kousen.
+**Tenue**: Geel shirt, Rode broek en rode kousen.
 
 ### Correspondentieadres
 
