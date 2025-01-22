@@ -57,7 +57,7 @@ Tel. 06 55688931
 | Wedstrijdsecretaris jeugd | José Verhoeven       | jeugd@vvschijf.nl | \-       |
 | Bestuurslid               | L﻿otte Bogers        | \-                | \-       |
 | Bestuurslid               | Kristel Snepvangers  | \-                | \-       |
-| Bestuurslid               | G﻿erben van de sande | \-                | \-       |
+| B﻿estuurslid              | G﻿erben van de Sande | \-                |          |
 
 ### Voetbaltechnische zaken
 
@@ -75,5 +75,9 @@ Ton van Dongen
 Peter Valster 
 
 Kiske Martens
+
+**V﻿ertrouwenspersoon VV. Schijf**
+
+K﻿ristel Snepvangers
 
 Voor meer informatie over het privacybeleid van vv Schijf: [AVG](/avg)
