@@ -2,24 +2,22 @@
 title: Oud papier
 download: /img/ophalen-oud-papier.xls
 ---
-## Ophaaldagen 2021:
+## Ophaaldagen 2025:
 
-
-
-|                               |
-| ----------------------------- |
-| <!--StartFragment-->22-jan-22 |
-| 26-feb-22                     |
-| 26-mrt-22                     |
-| 23-apr-22                     |
-| 28-mei-22                     |
-| 25-jun-22                     |
-| 23-jul-22                     |
-| 27-aug-22                     |
-| 24-sep-22                     |
-| 22-okt-22                     |
-| 26-nov-22                     |
-| 17-dec-22                     |
+|                                                                     |
+| ------------------------------------------------------------------- |
+| <!--StartFragment-->25-jan-25 Papier opgehaald door de Plas         |
+| 22-feb-25 Nienke de Jong , Dion van Nijnatten , Ardin van Nijnatten |
+| 22-mrt-25 Dorien Kemps , Rick van Nijnatten , Yuan van Nijnatten    |
+| 19-apr-25 Papier opgehaald door de Plas                             |
+| 24-mei-25 Francy van de Korput , Koen Nouws , Bram van Overveld     |
+| 28-jun-25 Sandra Kustermans , Daan van Overveld , Jan van Peer      |
+| 26-jul-25 Papier opgehaald door de Plas                             |
+| 23-aug-25 Ilse Naalden , Bart Peeters , Rick Peeters                |
+| 27-sep-25 Karen Naalden , Joost Peeters , Falco Potters             |
+| 25-okt-25 Papier opgehaald door de Plas                             |
+| 22-nov-25 Joyce Rens , Gijs Rommers , Stefan Ros                    |
+| 27-dec-25 Ellis Rommers , Maarten van Steen , Niek Struijs          |
 
 ## Afspraken ophalen oud-papier
 
