@@ -34,13 +34,13 @@ Tel. 06 55688931
 
 | Functie               | Naam                 | E-mailadres                       | Telefoon                     |
 | --------------------- | -------------------- | --------------------------------- | ---------------------------- |
-| Voorzitter            | Ralph Boden          | r﻿alphboden@outlook.com           | 0﻿654973270                  |
+| Voorzitter            | Ralph Boden          | v﻿oorzitter@vvschijf.nl           | 0﻿654973270                  |
 | Secretaris            | Evelien Hack         | secretaris@vvschijf.nl            | [0623885767](tel:0612010556) |
-| Penningmeester        | B﻿as Adriaensen      |                                   | [](tel:0622615633)           |
+| Penningmeester        | B﻿as Adriaensen      | p﻿enningmeester@vvschijf.nl       | [](tel:0622615633)           |
 | Wedstrijdsecretariaat | Erwin Damen          | wedstrijdsecretariaat@vvschijf.nl | \-                           |
 | Sponsoring            | L﻿otte Godrie        | sponsoring@vvschijf.nl            | \-﻿[](tel:0683968415)        |
 | Activiteiten          | Fleur Suijkerbuijk   | activiteiten@vvschijf.nl          | \-                           |
-| Jeugdzaken            | Hans van Merrienboer | \-                                | \-                           |
+| Jeugdzaken            | Hans van Merrienboer | j﻿eugd@vvschijf.nl                | \-                           |
 | Accommodatie          | Jan Naalden          | \-                                | \-                           |
 | Kantine beheer        | Ron Schrauwen        | \-﻿                               | \-﻿                          |
 
