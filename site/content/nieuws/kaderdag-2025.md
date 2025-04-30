@@ -1,5 +1,5 @@
 ---
-title: Kaderdag 2025
+title: Kaderdag zondag 11 mei 2025
 visible: true
 date: 2025-04-30T14:01:24.546Z
 description: >-
