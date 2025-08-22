@@ -52,12 +52,12 @@ Tel. 06 55688931
 
 | Functie                   | Naam                 | E-mailadres       | Telefoon |
 | ------------------------- | -------------------- | ----------------- | -------- |
-| Voorzitter                | Hans van Merrienboer | \-                | \-       |
-| Secretaris                |                      | \-                | \-       |
-| Wedstrijdsecretaris jeugd | José Verhoeven       | jeugd@vvschijf.nl | \-       |
+| Voorzitter                | R﻿onald van Overveld | \-                | \-       |
+| Secretaris                | G﻿erben van de Sande | \-                | \-       |
+| Wedstrijdsecretaris jeugd | M﻿artijn Naenen      | jeugd@vvschijf.nl | \-       |
 | Bestuurslid               | L﻿otte Bogers        | \-                | \-       |
-| Bestuurslid               | Kristel Snepvangers  | \-                | \-       |
-| B﻿estuurslid              | G﻿erben van de Sande | \-                |          |
+| Bestuurslid               | D﻿irk van Lokven     | \-                | \-       |
+| B﻿estuurslid              | M﻿erijn Schrauwen    | \-                |          |
 
 ### Voetbaltechnische zaken
 
@@ -69,12 +69,12 @@ tc@vvschijf.nl
 W﻿ilfried Foesenek
 
 **Dames 1**\
-Ton van Dongen
+J﻿enny Futterer
 
 **Keepers; Senioren + jeugd**\
 Peter Valster 
 
-Kiske Martens
+R﻿ichard Fossen
 
 **V﻿ertrouwenspersoon VV. Schijf**
 
