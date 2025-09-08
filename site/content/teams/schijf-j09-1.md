@@ -5,20 +5,19 @@ category: junior
 ---
 ## Spelers
 
-G﻿ene Faes\
-J﻿uul van Overveld\
-P﻿ien van de Korput\
-L﻿ena Wouters\
-I﻿sa Jochems\
-S﻿am Nouws\
-P﻿ip Schrauwen\
-B﻿erend van Lokven\
-N﻿oud Naenen
+Y﻿ara Wijtman\
+B﻿as van Hooydonck\
+L﻿eff de Beer\
+I﻿se van Trijp\
+D﻿aaf Crijns\
+L﻿uca Brosens\
+M﻿ats Martens
 
 ## Technische staf
 
-R﻿onald van Overveld\
-M﻿erijn Schrauwen
+M﻿arvin de Beer
+
+V﻿ictor Wijtman
 
 ## Trainingstijden
 
