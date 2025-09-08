@@ -1,28 +1,23 @@
 ---
-title: JO12-1
+title: JO10-1
 visible: true
 category: junior
 image: ""
 ---
 ## Spelers
 
-Si﻿ep Castelijn\
-S﻿epke van Overveld\
-V﻿ico Kruis\
-J﻿ur Jochems\
-Q﻿uinten de Haan\
-L﻿uuk Naenen\
-N﻿il Goorden\
-N﻿oah Kaspers\
-J﻿oep van Trijp\
-B﻿ram Vriends\
-C﻿as Dictus\
-T﻿im van Dijk
+G﻿ene Faes\
+P﻿ien van de Korput\
+L﻿ena Wouters\
+S﻿am Nouws\
+P﻿ip Schrauwen\
+Noud Naenen\
+B﻿erend van Lokven\
+S﻿tijn Peeters
 
 ## Technische staf
 
-M﻿artijn Naenen\
-J﻿acco van Overveld
+M﻿erijn Schrauwen
 
 ## Trainingstijden
 
