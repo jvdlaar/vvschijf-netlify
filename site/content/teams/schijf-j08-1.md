@@ -6,19 +6,23 @@ image: ""
 ---
 ## Spelers
 
-Y﻿ara Wijtman\
-B﻿as van Hooydonck\
-S﻿tijn Peeters\
-L﻿eff de Beer\
-I﻿se van Trijp\
-D﻿aaf Crijns\
-J﻿ip van Overveld\
-M﻿ats Martens
+
+
+W﻿illem van Nijnatten\
+N﻿iek Naenen\
+M﻿iep Wouters\
+T﻿ijn Rens\
+S﻿iem Kokx\
+C﻿as van Nijnatten\
+Y﻿ara wijtman\
+A﻿melle Ossenblok
+
+J﻿ip van Overveld
 
 ## Technische staf
 
-M﻿arvin de Beer\
-V﻿ictor Wijtman
+J﻿elle Rens\
+M﻿aikel van Nijnatten
 
 ## Trainingstijden
 
