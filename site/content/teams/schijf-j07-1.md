@@ -6,18 +6,18 @@ image: ""
 ---
 ## Selectie
 
-Tijn Rens\
-S﻿iem Kokx\
-W﻿illem van Nijnatten\
-N﻿iek Naenen\
+F﻿leur Fossen\
+K﻿obus Wouters\
+D﻿ani de Beer\
+F﻿lynn Brosens\
 J﻿urre Vissers\
-C﻿as van Nijnatten\
+M﻿ees Martens\
 T﻿ies van Tighelt
 
-## Technische staf
+## Technische staf 
 
-M﻿aikel van Nijnatten\
-J﻿elle Rens\
+## \
+E﻿velien Fossen\
 J﻿eroen Vissers
 
 ## Trainingtijden
