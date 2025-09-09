@@ -24,8 +24,7 @@ X﻿avi Ossenblok
 
 ## Technische staf
 
-Gerben van de Sande\
-Miranda Verbraak\
+## \
 R﻿einier Goorden\
 D﻿irk Ossenblok
 
