@@ -2,6 +2,7 @@
 title: JO13-1
 visible: true
 category: junior
+download: /img/img-20250908-wa0003.jpg
 ---
 ## Spelers
 
