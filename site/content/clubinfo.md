@@ -80,9 +80,11 @@ R﻿ichard Fossen
 
 K﻿ristel Snepvangers
 
+S﻿anne Aarts
+
+S﻿ven Arink
+
 Voor meer informatie over het privacybeleid van vv Schijf: [AVG](/avg)
-
-
 
 <!--StartFragment-->
 
@@ -90,7 +92,7 @@ VCP
 
 Onze club vindt het belangrijk dat iedereen met vragen, twijfels, opmerkingen of klachten hier met iemand over kan praten. Daarvoor hebben we een vertrouwenscontactpersoon aangesteld. Een vertrouwenscontactpersoon is binnen RKVVSchijf het eerste aanspreekpunt voor iedereen die iets kwijt wil over alles wat te maken heeft met grensoverschrijdend gedrag. Denk aan (online) pestgedrag, geweld of aanrakingen die je niet fijn vindt. Onze vertrouwenscontactpersoon is er voor iedereen op de club: van sporter tot vrijwilliger en toeschouwer. Zij luistert graag naar jouw verhaal, geeft advies en verwijst door, mocht dit nodig zijn. Daarnaast helpt de vertrouwenscontactpersoon het bestuur bij de preventie van grensoverschrijdend gedrag en het stimuleren van een sociaal veilige sportomgeving voor iedereen. 
 
-In contact komen met de vertrouwenscontactpersoon? Wij stellen je graag voor: Kristel Snepvangers-Kerstens 0612199063/mobypinas@hotmail.com 
+In contact komen met de vertrouwenscontactpersoon? Wij stellen je graag voor: Kristel Snepvangers-Kerstens 0612199063/mobypinas@hotmail.com , Sanne Aarts sanne_weslee@hotmail.com en Sven Arink 0612010556
 
 Even voorstellen: Mijn naam is Kristel geboren en getogen in Schijf. Moeder van 2 dochters waarvan mijn oudste dochter momenteel voetbalt bij de dames van Schijf. Zelf heb ik ook gevoetbald, maar dat is intussen al wel heel wat jaren geleden. Voor mijn rol als vertrouwenspersoon was ik al betrokken bij de vereniging. Startend als leider, daarna leider/trainer bij de jeugd. Later als lid van het jeugdbestuur. Nu mag ik de rol van vertrouwenscontactpersoon vervullen. Dit is een nieuwe rol binnen de vereniging en dat maakt dat het misschien nog niet heel duidelijk is wat dit inhoudt. Iedereen is vrij om me te benaderen met vragen hierover. En ik hoop dat jullie me ook weten te vinden als het gaat om situaties die mogelijk lastig zijn.
 
