@@ -19,7 +19,7 @@ Lid worden is heel eenvoudig! Download het aanmeldingsformulier onderaan deze pa
 | Jeugdlid / 7X7                | 80,-  |
 | Senioren                      | 140,- |
 | Commissielid / lid 16-18 jaar | 110,- |
-| Kaderlid                      | 80,-  |
+| Kaderlid / rustend lid        | 80,-  |
 
 Voor spelers van 11 jaar en ouder die deel willen gaan nemen aan competitie- en/of bekerwedstrijden is het verplicht om een KNVB spelerspas aan te vragen.
 Hiervoor hebben wij ook een **recente pasfoto** van je nodig die je met het aanmeldingsformulier kunt inleveren. Voor nieuwe leden vanaf 16 jaar is het verplicht om samen met het aanmeldingsformulier een **kopie** van een **geldig legitimatiebewijs** in te leveren.
