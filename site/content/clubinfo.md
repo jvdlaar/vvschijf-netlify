@@ -28,7 +28,7 @@ Tel. 06 55688931
 
 ### Hoofdbestuur
 
-![Hoofdbestuur]( "Hoofdbestuur")
+![Hoofdbestuur](/img/bestuur-2025-2026.jpg "Hoofdbestuur")
 
 **Leden Hoofdbestuur**
 
