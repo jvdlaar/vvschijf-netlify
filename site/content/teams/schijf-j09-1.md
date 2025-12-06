@@ -2,6 +2,7 @@
 title: JO09-1
 visible: true
 category: junior
+image: /img/jo9-schijf.jpg
 ---
 ## Spelers
 
