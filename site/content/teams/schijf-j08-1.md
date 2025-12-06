@@ -2,7 +2,7 @@
 title: JO08-1
 visible: true
 category: junior
-image: ""
+image: /img/jo8.jpg
 ---
 ## Spelers
 
