@@ -9,8 +9,6 @@ description: >
   Ter ere van ons 60-jarig jubileum organiseren we de grootste loterij uit onze historie. Onze sponsoren hebben ontzettend mooie prijzen gesponsord, zoals een fiets, robotmaaier, uitje met 10 eChoppers, een jaar gratis sporten en vele mooie kadobonnen. Koop je loten bij onze jeugdleden die langs de deuren komen of in de kantine. De uitreiking is tijdens ons jubileumweekend op zondag 21 juni.
 image: /img/loterij.jpg
 ---
-
-
 Loterij
 De prachtige te winnen prijzen, waarvoor wij onze sponsoren ontzettend dankbaar zijn:
 
@@ -34,11 +32,11 @@ De prachtige te winnen prijzen, waarvoor wij onze sponsoren ontzettend dankbaar 
 * Waardebon ter waarde van €50 door MijnTuin
 * 2x warmtepakket met onder andere thermosfles en muts van installatiebedrijf Verhees
 * Badjas van installatiebedrijf Verhees
-* Enkele prijzen van Van Caulil keurslager
+* Tafelbbq met bbq-pakket voor 4 personen Van Caulil keurslager
 * 2x planten in pot van Plantenverhuur Sweep
 * Zomerpakket met onder andere een koelbox en champagne van ESJ accountants
 * Waardebon ter waarde van €50 van Doorisol
 * Merchandise en dergelijke van Maas Jacobs
 * Nader te bepalen prijs van Haarsalon Anja
 * Twee maal een grote grillplaat van de Sligro
-* 2X Jubileumtrui Maat M Bergamo Havando
+* 2x Jubileumtrui Maat M Bergamo Havando
