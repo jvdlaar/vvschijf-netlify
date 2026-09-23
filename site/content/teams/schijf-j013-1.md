@@ -1,5 +1,5 @@
 ---
-title: JO15-1
+title: JO16-1
 visible: true
 category: junior
 image: ""
@@ -19,14 +19,28 @@ K﻿ris Vergouwen\
 L﻿isa van Dijk\
 F﻿er van de Korput\
 W﻿es Boden\
-J﻿ens Havermans\
+T﻿ies van Balkom\
 X﻿avi Ossenblok
+
+
 
 ## Technische staf
 
 ## \
-R﻿einier Goorden\
-D﻿irk Ossenblok
+
+F﻿alco Potters
+
+L﻿ars Boogers
+
+L﻿ars van Oers
+
+F﻿loris Naalden
+
+R﻿uud Peeters
+
+T﻿seard Hofstra
+
+N﻿iels Suijkerbuijk
 
 ## Trainingstijden
 
