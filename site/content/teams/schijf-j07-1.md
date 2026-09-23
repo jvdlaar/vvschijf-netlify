@@ -6,19 +6,19 @@ image: ""
 ---
 ## Selectie
 
-F﻿leur Fossen\
-K﻿obus Wouters\
-D﻿ani de Beer\
+J﻿enna van der Kraaij\
+K﻿ai van Trijp\
+L﻿iz van Trijp\
 F﻿lynn Brosens\
-J﻿urre Vissers\
-M﻿ees Martens\
-T﻿ies van Tighelt
+S﻿aar van Tichelt
 
-## Technische staf 
+## Technische staf
 
 ## \
-E﻿velien Fossen\
-J﻿eroen Vissers
+
+L﻿eslie Vermonden
+
+T﻿amara van Trijp
 
 ## Trainingtijden
 
