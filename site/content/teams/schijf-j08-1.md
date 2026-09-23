@@ -6,23 +6,31 @@ image: /img/jo8.jpg
 ---
 ## Spelers
 
+R﻿une Teurfs
 
+M﻿ees Martens
 
-W﻿illem van Nijnatten\
-N﻿iek Naenen\
-M﻿iep Wouters\
-T﻿ijn Rens\
-S﻿iem Kokx\
-C﻿as van Nijnatten\
-Y﻿ara wijtman\
-A﻿melle Ossenblok
+W﻿out Koster
 
-J﻿ip van Overveld
+J﻿urre Vissers
+
+F﻿leur Fossen
+
+V﻿ince van Unen
+
+K﻿obus Wouters
+
+D﻿ani de Beer
+
+K﻿as van Nijnatten
+
+T﻿ies van Tichelt
 
 ## Technische staf
 
-J﻿elle Rens\
-M﻿aikel van Nijnatten
+E﻿velien Fossen
+
+D﻿ebbie de Beer
 
 ## Trainingstijden
 
