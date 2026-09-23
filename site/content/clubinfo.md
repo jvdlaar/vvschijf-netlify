@@ -66,10 +66,10 @@ tc@vvschijf.nl
 ### Hoofdtrainers
 
 **Heren 1**\
-W﻿ilfried Foesenek
+M﻿arco Klijs
 
 **Dames 1**\
-J﻿enny Futterer
+S﻿am Corten
 
 **Keepers; Senioren + jeugd**\
 Peter Valster 
