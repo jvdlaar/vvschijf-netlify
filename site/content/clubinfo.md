@@ -39,7 +39,7 @@ Tel. 06 55688931
 | Penningmeester        | B﻿as Adriaensen       | p﻿enningmeester@vvschijf.nl       | [](tel:0622615633)           |
 | Wedstrijdsecretariaat | J﻿ose Verhoeven-Braat | wedstrijdsecretariaat@vvschijf.nl | \-                           |
 | Sponsoring            | N﻿ick van Dijk        | sponsoring@vvschijf.nl            | \-﻿[](tel:0683968415)        |
-| Activiteiten          | Fleur Suijkerbuijk    | activiteiten@vvschijf.nl          | \-                           |
+| Activiteiten          | Floor Schouw          | activiteiten@vvschijf.nl          | \-                           |
 | Jeugdzaken            | R﻿onald van Overveld  | j﻿eugd@vvschijf.nl                | \-                           |
 | Accommodatie          | Jan Naalden           | \-                                | \-                           |
 | Kantine beheer        | Ron Schrauwen         | \-﻿                               | \-﻿                          |
