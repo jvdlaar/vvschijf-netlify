@@ -28,9 +28,13 @@ J﻿ens Hoefnagels
 
 ## Technische staf
 
-M﻿artijn Naenen
+S﻿ven Arink
 
-J﻿acco van Overveld
+G﻿eert verdaasdonk
+
+R﻿ichard Fossen
+
+O﻿lf Hoefnagels
 
 ## Trainingstijden
 
