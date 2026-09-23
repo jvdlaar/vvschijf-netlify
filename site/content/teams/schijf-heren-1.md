@@ -2,7 +2,8 @@
 title: Heren 1
 visible: true
 category: heren
-image: /img/foto-eerste-schijf.jpg
+image: /img/schijf-1-thuis.jpg
+download: /img/schijf-1-uit.jpg
 ---
 ## Trainingstijden
 
