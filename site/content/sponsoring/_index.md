@@ -63,9 +63,6 @@ clothing:
   - title: Aannemersbedrijf Rens
     image: /img/aannemersbedrijfrens.png
     link: http://www.aannemersbedrijfrens.nl/
-  - title: Zuid-Nederlandse ramenfabriek
-    image: /img/visitekaart_znr.png
-    link: http://www.znrbv.nl/
 boarding:
   - title: Schipper groep
     image: /img/schipper_0.png
@@ -217,10 +214,9 @@ canteen:
     link: http://www.vleeswienkeltje.nl/
 ---
 ## Sponsor worden?
+
 Benieuwd naar de mogelijkheden om sponsor van VV Schijf te worden? Gebruik dan [dit contactformulier](#form) of neem dan contact op met:
 
-**Rob Adriaensen**\
-[robadriaensen@gmail.com](mailto:robadriaensen@gmail.com)\
-Scherpenbergsebaan 27\
-4721 ST Schijf\
-[06-83968415](tel:+31683968415)
+**N﻿ick van Dijk**
+
+**s﻿ponsoring@vvschijf.nl**
