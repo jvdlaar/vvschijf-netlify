@@ -6,17 +6,27 @@ image: /img/jo9-schijf.jpg
 ---
 ## Spelers
 
-Y﻿ara Wijtman\
-B﻿as van Hooydonck\
-L﻿eff de Beer\
-I﻿se van Trijp\
-D﻿aaf Crijns\
-L﻿uca Brosens\
-M﻿ats Martens
+B﻿oaz Schrauwen\
+M﻿ats Martens\
+K﻿alle Arink\
+M﻿iep Wouters\
+T﻿ijn Rens\
+S﻿iem Kokx\
+W﻿illem van Nijnatten
+
+Y﻿inte Wijtman
+
+N﻿iek Naenen
+
+A﻿melle Ossenblok
 
 ## Technische staf
 
-M﻿arvin de Beer
+Maikel van Nijnatten
+
+M﻿artijn Naenen
+
+J﻿elle Rens
 
 V﻿ictor Wijtman
 
