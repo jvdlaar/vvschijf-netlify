@@ -2,7 +2,7 @@
 title: JO07-1
 visible: true
 category: junior
-image: ""
+image: /img/img-o7.jpg
 ---
 ## Selectie
 
