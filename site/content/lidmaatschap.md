@@ -17,9 +17,9 @@ Lid worden is heel eenvoudig! Download het aanmeldingsformulier onderaan deze pa
 | Contributiebedragen |         |
 | ------------------- | ------- |
 | S﻿enioren           | 1﻿60,00 |
-| J﻿eugd 5 t/m 18     | 100,-   |
-| 7﻿X7                | 100,-   |
-| Rustende leden      | 80,-    |
+| J﻿eugd 5 t/m 18     | 100,00  |
+| 7﻿X7                | 100,00  |
+| Rustende leden      | 80,00   |
 
 Voor spelers van 11 jaar en ouder die deel willen gaan nemen aan competitie- en/of bekerwedstrijden is het verplicht om een KNVB spelerspas aan te vragen.
 Hiervoor hebben wij ook een **recente pasfoto** van je nodig die je met het aanmeldingsformulier kunt inleveren. Voor nieuwe leden vanaf 16 jaar is het verplicht om samen met het aanmeldingsformulier een **kopie** van een **geldig legitimatiebewijs** in te leveren.
