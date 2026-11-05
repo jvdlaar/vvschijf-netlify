@@ -2,7 +2,7 @@
 title: JO16-1
 visible: true
 category: junior
-image: ""
+image: /img/img-20261031-wa0005.jpg
 ---
 ## Spelers
 
