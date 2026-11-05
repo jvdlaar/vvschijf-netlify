@@ -41,8 +41,8 @@ Tel. 06 55688931
 | Sponsoring            | N﻿ick van Dijk        | sponsoring@vvschijf.nl            | \-﻿[](tel:0683968415)        |
 | Activiteiten          | Floor Schouw          | activiteiten@vvschijf.nl          | \-                           |
 | Jeugdzaken            | R﻿onald van Overveld  | j﻿eugd@vvschijf.nl                | \-                           |
-| Accommodatie          | Jan Naalden           | \-                                | \-                           |
-| Kantine beheer        | Ron Schrauwen         | \-﻿                               | \-﻿                          |
+| Accommodatie          | M﻿aikel van Nijnatten | \-                                | \-                           |
+| Kantine beheer        | D﻿irk van Lokven      | \-﻿                               | \-﻿                          |
 
 ### Jeugdbestuur
 
@@ -56,8 +56,8 @@ Tel. 06 55688931
 | Secretaris                | G﻿erben van de Sande | \-                | \-       |
 | Wedstrijdsecretaris jeugd | M﻿artijn Naenen      | jeugd@vvschijf.nl | \-       |
 | Bestuurslid               | L﻿otte Bogers        | \-                | \-       |
-| Bestuurslid               | D﻿irk van Lokven     | \-                | \-       |
-| B﻿estuurslid              | M﻿erijn Schrauwen    | \-                |          |
+| Bestuurslid               | M﻿erijn Schrauwen    | \-                | \-       |
+| B﻿estuurslid              |                      | \-                |          |
 
 ### Voetbaltechnische zaken
 
