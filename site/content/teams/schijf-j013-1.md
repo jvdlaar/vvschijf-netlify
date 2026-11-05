@@ -22,8 +22,6 @@ W﻿es Boden\
 T﻿ies van Balkom\
 X﻿avi Ossenblok
 
-
-
 ## Technische staf
 
 ## \
@@ -44,4 +42,4 @@ N﻿iels Suijkerbuijk
 
 ## Trainingstijden
 
-Dinsdag en donderdag 18:15 uur
+Dinsdag en donderdag 19:30 uur
